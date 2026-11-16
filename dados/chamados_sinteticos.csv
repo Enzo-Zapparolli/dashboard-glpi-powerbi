@@ -1,0 +1,1201 @@
+﻿ID;Data abertura;Data fechamento;Status;Área tratada;Serviço;Atribuído - Grupo técnico;Mês abertura;Tempo atendimento dias;Prioridade
+1;2026-04-18 11:40:00;2026-04-21 23:40:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-04;3.5;Alta
+2;2026-01-07 16:12:00;2026-01-13 21:12:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-01;6.2083;Normal
+3;2026-09-15 11:36:00;2026-09-15 22:36:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-09;0.4583;Baixa
+4;2026-10-21 14:25:00;;Novo;Infraestrutura;Rede;Equipe Suporte;2026-10;;Baixa
+5;2026-04-27 17:00:00;2026-04-29 11:00:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-04;1.75;Baixa
+6;2026-03-12 11:46:00;2026-03-13 18:46:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-03;1.2917;Baixa
+7;2026-10-30 09:13:00;;Em atendimento;Infraestrutura;E-mail;Equipe Suporte;2026-10;;Baixa
+8;2026-04-06 17:20:00;2026-04-10 22:20:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-04;4.2083;Normal
+9;2026-03-04 15:35:00;2026-03-08 23:35:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-03;4.3333;Alta
+10;2026-11-15 16:14:00;;Novo;Infraestrutura;Computadores;Equipe Suporte;2026-11;;Baixa
+11;2026-02-05 14:47:00;2026-02-08 05:47:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;2.625;Normal
+12;2026-06-14 11:23:00;2026-06-20 18:23:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-06;6.2917;Normal
+13;2026-07-12 14:46:00;2026-07-19 00:46:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-07;6.4167;Normal
+14;2026-01-04 16:58:00;2026-01-10 06:58:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-01;5.5833;Baixa
+15;2026-09-15 14:05:00;2026-09-16 19:05:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-09;1.2083;Alta
+16;2026-08-03 15:40:00;2026-08-07 10:40:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-08;3.7917;Alta
+17;2026-01-25 13:47:00;2026-01-26 16:47:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-01;1.125;Alta
+18;2026-08-28 11:42:00;2026-09-02 22:42:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-08;5.4583;Baixa
+19;2026-09-09 11:45:00;2026-09-13 21:45:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-09;4.4167;Normal
+20;2026-09-15 13:28:00;2026-09-16 07:28:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-09;0.75;Alta
+21;2026-06-20 08:56:00;2026-06-21 00:56:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-06;0.6667;Baixa
+22;2026-03-19 12:03:00;2026-03-20 04:03:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-03;0.6667;Alta
+23;2026-07-13 14:21:00;2026-07-20 18:21:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-07;7.1667;Alta
+24;2026-03-28 11:22:00;2026-03-31 16:22:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-03;3.2083;Baixa
+25;2026-06-30 13:15:00;2026-07-07 23:15:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-06;7.4167;Normal
+26;2026-04-26 12:23:00;2026-04-26 20:23:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-04;0.3333;Baixa
+27;2026-01-04 10:19:00;2026-01-07 09:19:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;2.9583;Normal
+28;2026-08-20 13:12:00;2026-08-22 01:12:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-08;1.5;Normal
+29;2026-03-26 11:30:00;2026-03-27 04:30:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-03;0.7083;Alta
+30;2026-05-15 08:58:00;2026-05-18 17:58:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-05;3.375;Normal
+31;2026-08-04 14:09:00;2026-08-11 05:09:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-08;6.625;Normal
+32;2026-01-02 15:40:00;2026-01-04 22:40:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;2.2917;Alta
+33;2026-04-22 09:12:00;2026-04-29 12:12:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-04;7.125;Normal
+34;2026-06-20 13:44:00;;Pendente;Infraestrutura;Impressoras;Equipe Suporte;2026-06;;Baixa
+35;2026-01-30 17:43:00;2026-02-02 13:43:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-01;2.8333;Normal
+36;2026-09-08 14:22:00;2026-09-14 05:22:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-09;5.625;Normal
+37;2026-01-10 10:25:00;2026-01-14 12:25:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-01;4.0833;Normal
+38;2026-08-02 14:17:00;2026-08-07 21:17:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-08;5.2917;Normal
+39;2026-04-13 10:16:00;2026-04-18 23:16:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;5.5417;Normal
+40;2026-02-27 13:03:00;2026-02-27 22:03:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;0.375;Baixa
+41;2026-05-22 14:58:00;2026-05-25 17:58:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-05;3.125;Baixa
+42;2026-02-05 12:52:00;2026-02-12 21:52:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-02;7.375;Alta
+43;2026-02-03 16:01:00;2026-02-08 08:01:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-02;4.6667;Normal
+44;2026-03-20 10:26:00;2026-03-24 13:26:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-03;4.125;Baixa
+45;2026-03-05 13:29:00;2026-03-06 15:29:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;1.0833;Normal
+46;2026-07-21 09:18:00;2026-07-28 11:18:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-07;7.0833;Normal
+47;2026-07-13 10:37:00;2026-07-20 01:37:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-07;6.625;Baixa
+48;2026-04-16 10:53:00;2026-04-20 20:53:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-04;4.4167;Alta
+49;2026-06-06 10:50:00;2026-06-11 13:50:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-06;5.125;Normal
+50;2026-09-08 12:38:00;2026-09-15 11:38:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-09;6.9583;Alta
+51;2026-03-18 13:08:00;;Em atendimento;Infraestrutura;Impressoras;Equipe Suporte;2026-03;;Alta
+52;2026-03-29 17:58:00;2026-04-05 06:58:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-03;6.5417;Alta
+53;2026-08-19 13:24:00;2026-08-20 12:24:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-08;0.9583;Baixa
+54;2026-06-17 16:16:00;2026-06-21 16:16:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-06;4.0;Alta
+55;2026-09-05 17:03:00;2026-09-07 23:03:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-09;2.25;Alta
+56;2026-02-14 14:52:00;2026-02-15 09:52:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-02;0.7917;Alta
+57;2026-09-27 08:16:00;2026-09-29 14:16:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-09;2.25;Normal
+58;2026-01-15 12:24:00;2026-01-16 04:24:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-01;0.6667;Normal
+59;2026-07-18 12:01:00;2026-07-25 07:01:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-07;6.7917;Alta
+60;2026-10-20 16:37:00;;Pendente;Manutenção;Climatização;Equipe Manutenção;2026-10;;Alta
+61;2026-11-11 09:48:00;2026-11-14 11:48:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-11;3.0833;Alta
+62;2026-11-08 09:31:00;2026-11-10 08:31:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-11;1.9583;Normal
+63;2026-05-21 13:31:00;2026-05-25 22:31:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-05;4.375;Normal
+64;2026-11-15 13:38:00;;Em atendimento;Infraestrutura;Impressoras;Equipe Suporte;2026-11;;Alta
+65;2026-05-08 12:59:00;;Novo;Infraestrutura;Computadores;Equipe Suporte;2026-05;;Baixa
+66;2026-07-26 17:18:00;;Em atendimento;Infraestrutura;Computadores;Equipe Suporte;2026-07;;Baixa
+67;2026-03-15 17:18:00;2026-03-19 12:18:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;3.7917;Normal
+68;2026-01-19 16:47:00;2026-01-22 18:47:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-01;3.0833;Normal
+69;2026-02-14 12:17:00;2026-02-16 00:17:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-02;1.5;Baixa
+70;2026-10-10 16:34:00;2026-10-11 02:34:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-10;0.4167;Normal
+71;2026-05-08 13:17:00;2026-05-08 16:17:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-05;0.125;Alta
+72;2026-11-06 13:23:00;2026-11-12 21:23:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-11;6.3333;Alta
+73;2026-10-30 09:05:00;;Novo;Infraestrutura;E-mail;Equipe Suporte;2026-10;;Baixa
+74;2026-04-22 12:55:00;;Pendente;Manutenção;Mobiliário;Equipe Manutenção;2026-04;;Normal
+75;2026-01-15 15:41:00;2026-01-16 07:41:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;0.6667;Normal
+76;2026-06-04 08:30:00;2026-06-11 11:30:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-06;7.125;Normal
+77;2026-05-13 10:07:00;2026-05-19 03:07:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-05;5.7083;Baixa
+78;2026-08-11 09:00:00;2026-08-17 23:00:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-08;6.5833;Alta
+79;2026-08-28 09:50:00;2026-09-02 01:50:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;4.6667;Normal
+80;2026-07-01 11:11:00;2026-07-02 10:11:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-07;0.9583;Normal
+81;2026-02-28 08:47:00;2026-03-01 16:47:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-02;1.3333;Normal
+82;2026-04-13 12:59:00;2026-04-19 18:59:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-04;6.25;Normal
+83;2026-05-11 12:14:00;2026-05-12 18:14:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-05;1.25;Alta
+84;2026-01-16 08:20:00;2026-01-23 16:20:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-01;7.3333;Alta
+85;2026-11-02 12:41:00;;Em atendimento;Acessos;Permissões;Equipe Acessos;2026-11;;Baixa
+86;2026-04-28 09:33:00;2026-05-01 05:33:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-04;2.8333;Alta
+87;2026-05-06 16:27:00;2026-05-13 19:27:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-05;7.125;Alta
+88;2026-09-02 09:08:00;2026-09-09 00:08:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-09;6.625;Baixa
+89;2026-10-26 14:40:00;;Pendente;Manutenção;Climatização;Equipe Manutenção;2026-10;;Alta
+90;2026-08-01 10:36:00;2026-08-04 23:36:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-08;3.5417;Normal
+91;2026-10-20 09:51:00;2026-10-21 07:51:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-10;0.9167;Baixa
+92;2026-03-13 10:33:00;2026-03-15 13:33:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-03;2.125;Alta
+93;2026-03-09 08:10:00;2026-03-13 06:10:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-03;3.9167;Normal
+94;2026-09-08 15:19:00;2026-09-11 07:19:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-09;2.6667;Alta
+95;2026-08-28 15:51:00;2026-09-03 08:51:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-08;5.7083;Baixa
+96;2026-02-01 10:09:00;2026-02-08 15:09:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-02;7.2083;Baixa
+97;2026-08-05 10:59:00;2026-08-10 14:59:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-08;5.1667;Baixa
+98;2026-09-05 10:12:00;2026-09-05 17:12:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-09;0.2917;Baixa
+99;2026-05-01 15:14:00;2026-05-06 14:14:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-05;4.9583;Alta
+100;2026-08-10 10:24:00;2026-08-17 22:24:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-08;7.5;Alta
+101;2026-04-29 14:41:00;2026-05-06 22:41:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-04;7.3333;Alta
+102;2026-11-04 15:06:00;;Novo;Sistemas;Portal interno;Equipe Sistemas;2026-11;;Alta
+103;2026-08-02 17:25:00;2026-08-06 12:25:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-08;3.7917;Baixa
+104;2026-04-02 10:24:00;2026-04-03 03:24:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-04;0.7083;Baixa
+105;2026-01-02 13:04:00;2026-01-03 23:04:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-01;1.4167;Alta
+106;2026-07-08 11:02:00;2026-07-13 09:02:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-07;4.9167;Alta
+107;2026-07-15 14:36:00;2026-07-18 19:36:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-07;3.2083;Alta
+108;2026-04-27 10:02:00;2026-04-27 12:02:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-04;0.0833;Normal
+109;2026-03-04 17:09:00;2026-03-07 23:09:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-03;3.25;Normal
+110;2026-11-02 12:14:00;;Em atendimento;Sistemas;Integração;Equipe Sistemas;2026-11;;Normal
+111;2026-04-14 09:48:00;2026-04-17 20:48:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-04;3.4583;Alta
+112;2026-01-03 16:20:00;2026-01-06 12:20:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-01;2.8333;Alta
+113;2026-08-18 10:05:00;2026-08-25 13:05:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;7.125;Baixa
+114;2026-09-05 09:46:00;2026-09-10 08:46:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-09;4.9583;Normal
+115;2026-07-02 15:32:00;2026-07-08 18:32:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-07;6.125;Normal
+116;2026-05-09 13:03:00;2026-05-12 07:03:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-05;2.75;Normal
+117;2026-01-03 11:47:00;2026-01-10 05:47:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;6.75;Baixa
+118;2026-11-05 17:03:00;;Em atendimento;Infraestrutura;Computadores;Equipe Suporte;2026-11;;Baixa
+119;2026-03-12 14:19:00;2026-03-17 02:19:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-03;4.5;Alta
+120;2026-02-19 14:36:00;2026-02-21 11:36:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-02;1.875;Baixa
+121;2026-08-20 10:13:00;2026-08-23 16:13:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-08;3.25;Alta
+122;2026-05-03 13:55:00;2026-05-08 08:55:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-05;4.7917;Normal
+123;2026-08-26 15:32:00;2026-08-31 01:32:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-08;4.4167;Baixa
+124;2026-02-11 15:23:00;2026-02-18 10:23:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-02;6.7917;Baixa
+125;2026-01-17 12:47:00;2026-01-22 17:47:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-01;5.2083;Normal
+126;2026-02-11 08:44:00;2026-02-18 04:44:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-02;6.8333;Alta
+127;2026-01-20 12:41:00;2026-01-23 12:41:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-01;3.0;Alta
+128;2026-02-20 15:49:00;2026-02-27 00:49:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-02;6.375;Alta
+129;2026-01-26 14:42:00;2026-01-27 13:42:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-01;0.9583;Alta
+130;2026-01-22 16:48:00;2026-01-24 19:48:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-01;2.125;Normal
+131;2026-04-11 09:56:00;2026-04-16 04:56:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-04;4.7917;Alta
+132;2026-10-28 08:34:00;2026-10-31 04:34:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-10;2.8333;Normal
+133;2026-10-12 08:45:00;2026-10-15 09:45:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-10;3.0417;Alta
+134;2026-07-26 12:09:00;2026-07-26 14:09:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;0.0833;Alta
+135;2026-01-03 14:36:00;2026-01-05 04:36:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;1.5833;Normal
+136;2026-08-17 17:23:00;2026-08-22 09:23:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-08;4.6667;Baixa
+137;2026-09-02 08:59:00;2026-09-09 18:59:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-09;7.4167;Normal
+138;2026-04-10 12:24:00;2026-04-16 18:24:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-04;6.25;Alta
+139;2026-02-16 08:35:00;2026-02-20 13:35:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;4.2083;Normal
+140;2026-02-21 14:35:00;2026-02-22 14:35:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-02;1.0;Normal
+141;2026-03-22 08:09:00;2026-03-26 10:09:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-03;4.0833;Normal
+142;2026-04-25 13:20:00;2026-04-29 12:20:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-04;3.9583;Baixa
+143;2026-01-02 12:05:00;2026-01-07 07:05:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;4.7917;Baixa
+144;2026-06-23 09:41:00;2026-06-23 17:41:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-06;0.3333;Normal
+145;2026-08-14 12:33:00;2026-08-21 15:33:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-08;7.125;Alta
+146;2026-01-24 13:06:00;2026-01-25 15:06:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-01;1.0833;Baixa
+147;2026-05-02 17:50:00;2026-05-04 09:50:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-05;1.6667;Alta
+148;2026-06-10 15:05:00;2026-06-16 11:05:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-06;5.8333;Alta
+149;2026-03-04 11:29:00;2026-03-11 07:29:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-03;6.8333;Normal
+150;2026-10-11 12:31:00;2026-10-16 03:31:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;4.625;Normal
+151;2026-02-13 10:23:00;2026-02-17 08:23:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-02;3.9167;Normal
+152;2026-08-06 14:13:00;2026-08-07 21:13:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-08;1.2917;Normal
+153;2026-04-18 09:51:00;2026-04-22 15:51:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-04;4.25;Normal
+154;2026-02-21 15:49:00;;Pendente;Sistemas;Integração;Equipe Sistemas;2026-02;;Normal
+155;2026-09-09 12:05:00;2026-09-16 03:05:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-09;6.625;Normal
+156;2026-04-10 13:38:00;2026-04-12 07:38:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;1.75;Alta
+157;2026-08-05 13:20:00;;Pendente;Infraestrutura;Rede;Equipe Suporte;2026-08;;Alta
+158;2026-07-10 08:10:00;;Pendente;Sistemas;Integração;Equipe Sistemas;2026-07;;Normal
+159;2026-07-20 16:06:00;2026-07-25 12:06:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-07;4.8333;Baixa
+160;2026-07-06 13:17:00;2026-07-08 01:17:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-07;1.5;Alta
+161;2026-10-21 08:38:00;;Pendente;Acessos;Criar acesso;Equipe Acessos;2026-10;;Alta
+162;2026-04-02 17:11:00;2026-04-03 23:11:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-04;1.25;Alta
+163;2026-02-06 16:41:00;2026-02-11 15:41:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-02;4.9583;Normal
+164;2026-04-10 12:02:00;2026-04-13 00:02:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-04;2.5;Normal
+165;2026-03-21 13:52:00;2026-03-22 20:52:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-03;1.2917;Normal
+166;2026-03-06 08:46:00;2026-03-06 13:46:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;0.2083;Normal
+167;2026-05-01 17:54:00;2026-05-04 13:54:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-05;2.8333;Baixa
+168;2026-05-09 14:53:00;;Pendente;Acessos;Criar acesso;Equipe Acessos;2026-05;;Normal
+169;2026-01-21 14:22:00;2026-01-27 11:22:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-01;5.875;Normal
+170;2026-01-08 15:11:00;2026-01-11 20:11:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-01;3.2083;Normal
+171;2026-04-18 13:24:00;2026-04-22 10:24:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-04;3.875;Normal
+172;2026-08-19 15:44:00;2026-08-25 02:44:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-08;5.4583;Alta
+173;2026-07-14 10:00:00;2026-07-20 09:00:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-07;5.9583;Normal
+174;2026-02-07 10:41:00;2026-02-07 19:41:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;0.375;Normal
+175;2026-01-30 13:30:00;2026-02-01 13:30:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;2.0;Baixa
+176;2026-10-06 08:28:00;2026-10-09 00:28:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-10;2.6667;Alta
+177;2026-06-09 08:40:00;2026-06-12 17:40:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-06;3.375;Baixa
+178;2026-04-11 13:14:00;2026-04-12 15:14:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-04;1.0833;Normal
+179;2026-10-03 11:13:00;2026-10-09 22:13:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-10;6.4583;Alta
+180;2026-08-11 16:04:00;;Pendente;Sistemas;ERP;Equipe Sistemas;2026-08;;Baixa
+181;2026-10-11 16:55:00;2026-10-17 08:55:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-10;5.6667;Normal
+182;2026-05-24 13:58:00;2026-05-31 13:58:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-05;7.0;Normal
+183;2026-04-20 11:20:00;2026-04-22 05:20:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-04;1.75;Baixa
+184;2026-07-04 15:13:00;;Pendente;Sistemas;Portal interno;Equipe Sistemas;2026-07;;Alta
+185;2026-05-03 16:34:00;2026-05-04 17:34:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;1.0417;Baixa
+186;2026-07-26 16:04:00;2026-07-29 08:04:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-07;2.6667;Baixa
+187;2026-01-14 15:32:00;2026-01-18 08:32:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-01;3.7083;Baixa
+188;2026-11-01 08:58:00;2026-11-03 08:58:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-11;2.0;Baixa
+189;2026-11-12 10:22:00;2026-11-14 14:22:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-11;2.1667;Normal
+190;2026-06-30 15:00:00;2026-07-01 03:00:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-06;0.5;Alta
+191;2026-08-21 09:02:00;2026-08-28 15:02:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-08;7.25;Alta
+192;2026-09-25 14:32:00;2026-10-02 11:32:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-09;6.875;Alta
+193;2026-05-27 17:38:00;2026-06-04 02:38:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;7.375;Alta
+194;2026-07-31 16:31:00;2026-08-04 14:31:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-07;3.9167;Normal
+195;2026-03-17 13:53:00;2026-03-21 13:53:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-03;4.0;Normal
+196;2026-09-21 11:35:00;2026-09-28 07:35:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-09;6.8333;Normal
+197;2026-07-01 16:40:00;2026-07-03 12:40:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;1.8333;Baixa
+198;2026-01-16 13:03:00;2026-01-20 01:03:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-01;3.5;Normal
+199;2026-05-23 15:19:00;2026-05-25 02:19:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-05;1.4583;Baixa
+200;2026-08-08 13:11:00;2026-08-09 07:11:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-08;0.75;Baixa
+201;2026-04-05 13:16:00;2026-04-08 20:16:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-04;3.2917;Baixa
+202;2026-04-20 14:05:00;2026-04-23 04:05:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-04;2.5833;Normal
+203;2026-03-25 14:01:00;2026-04-01 17:01:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-03;7.125;Baixa
+204;2026-06-08 13:19:00;;Novo;Infraestrutura;Rede;Equipe Suporte;2026-06;;Normal
+205;2026-05-23 16:33:00;;Em atendimento;Manutenção;Elétrica;Equipe Manutenção;2026-05;;Normal
+206;2026-03-03 13:52:00;2026-03-06 13:52:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;3.0;Baixa
+207;2026-03-14 11:15:00;2026-03-18 15:15:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-03;4.1667;Normal
+208;2026-02-27 12:46:00;2026-03-02 15:46:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-02;3.125;Baixa
+209;2026-04-24 12:36:00;2026-04-25 22:36:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-04;1.4167;Alta
+210;2026-04-14 12:48:00;2026-04-16 14:48:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-04;2.0833;Baixa
+211;2026-02-17 12:58:00;2026-02-17 15:58:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-02;0.125;Alta
+212;2026-09-19 15:18:00;2026-09-26 09:18:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-09;6.75;Baixa
+213;2026-10-25 13:34:00;;Pendente;Sistemas;Integração;Equipe Sistemas;2026-10;;Alta
+214;2026-08-31 11:33:00;;Pendente;Infraestrutura;Impressoras;Equipe Suporte;2026-08;;Normal
+215;2026-02-23 09:12:00;2026-02-24 18:12:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-02;1.375;Baixa
+216;2026-08-15 08:29:00;2026-08-15 10:29:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-08;0.0833;Baixa
+217;2026-02-11 12:25:00;2026-02-15 12:25:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-02;4.0;Baixa
+218;2026-09-09 14:17:00;;Novo;Sistemas;ERP;Equipe Sistemas;2026-09;;Alta
+219;2026-01-27 14:19:00;2026-01-31 07:19:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-01;3.7083;Alta
+220;2026-05-06 08:21:00;2026-05-12 21:21:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-05;6.5417;Alta
+221;2026-10-25 16:07:00;;Em atendimento;Infraestrutura;E-mail;Equipe Suporte;2026-10;;Baixa
+222;2026-09-19 10:20:00;2026-09-24 13:20:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-09;5.125;Baixa
+223;2026-05-22 14:17:00;2026-05-24 21:17:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-05;2.2917;Alta
+224;2026-04-28 16:33:00;2026-04-29 17:33:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-04;1.0417;Baixa
+225;2026-06-29 16:51:00;2026-07-01 11:51:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-06;1.7917;Baixa
+226;2026-07-14 09:04:00;2026-07-17 21:04:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-07;3.5;Alta
+227;2026-01-25 17:34:00;2026-01-31 07:34:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-01;5.5833;Normal
+228;2026-05-13 17:44:00;2026-05-17 19:44:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-05;4.0833;Alta
+229;2026-10-26 12:54:00;2026-10-30 16:54:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-10;4.1667;Alta
+230;2026-06-16 09:23:00;2026-06-23 16:23:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-06;7.2917;Normal
+231;2026-07-04 09:19:00;2026-07-08 18:19:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-07;4.375;Normal
+232;2026-05-24 09:50:00;2026-05-27 06:50:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;2.875;Baixa
+233;2026-02-11 16:39:00;2026-02-16 08:39:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-02;4.6667;Normal
+234;2026-04-10 10:42:00;;Pendente;Manutenção;Climatização;Equipe Manutenção;2026-04;;Alta
+235;2026-11-02 16:58:00;;Em atendimento;Sistemas;Integração;Equipe Sistemas;2026-11;;Baixa
+236;2026-10-07 10:49:00;2026-10-11 11:49:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-10;4.0417;Baixa
+237;2026-07-24 10:29:00;2026-07-28 21:29:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-07;4.4583;Alta
+238;2026-05-11 13:43:00;2026-05-17 10:43:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-05;5.875;Baixa
+239;2026-03-27 11:42:00;2026-03-30 03:42:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-03;2.6667;Normal
+240;2026-07-07 08:28:00;2026-07-13 12:28:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-07;6.1667;Normal
+241;2026-05-13 16:27:00;2026-05-15 14:27:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-05;1.9167;Alta
+242;2026-04-04 10:02:00;2026-04-10 11:02:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-04;6.0417;Normal
+243;2026-03-03 10:02:00;;Pendente;Manutenção;Elétrica;Equipe Manutenção;2026-03;;Normal
+244;2026-01-22 14:43:00;2026-01-26 07:43:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;3.7083;Baixa
+245;2026-03-28 09:49:00;2026-03-31 00:49:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-03;2.625;Normal
+246;2026-01-30 12:26:00;2026-02-06 21:26:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-01;7.375;Alta
+247;2026-11-11 11:06:00;;Novo;Acessos;Criar acesso;Equipe Acessos;2026-11;;Normal
+248;2026-05-31 11:07:00;2026-06-06 01:07:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-05;5.5833;Alta
+249;2026-09-07 16:27:00;2026-09-14 12:27:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-09;6.8333;Alta
+250;2026-02-16 11:24:00;;Pendente;Acessos;Permissões;Equipe Acessos;2026-02;;Alta
+251;2026-10-24 11:53:00;;Novo;Infraestrutura;Impressoras;Equipe Suporte;2026-10;;Alta
+252;2026-02-26 14:22:00;;Novo;Infraestrutura;Impressoras;Equipe Suporte;2026-02;;Alta
+253;2026-10-08 17:00:00;2026-10-09 00:00:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-10;0.2917;Alta
+254;2026-07-22 15:14:00;2026-07-23 16:14:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-07;1.0417;Alta
+255;2026-01-09 12:33:00;2026-01-15 23:33:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-01;6.4583;Normal
+256;2026-01-27 10:11:00;;Em atendimento;Sistemas;Integração;Equipe Sistemas;2026-01;;Normal
+257;2026-10-26 15:29:00;2026-10-31 11:29:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-10;4.8333;Normal
+258;2026-01-20 13:37:00;2026-01-22 05:37:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-01;1.6667;Baixa
+259;2026-02-22 08:36:00;2026-02-26 22:36:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-02;4.5833;Alta
+260;2026-05-11 13:29:00;2026-05-17 04:29:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-05;5.625;Normal
+261;2026-03-08 08:30:00;2026-03-10 05:30:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-03;1.875;Baixa
+262;2026-07-10 13:41:00;;Em atendimento;Sistemas;Integração;Equipe Sistemas;2026-07;;Alta
+263;2026-07-28 12:36:00;2026-07-30 01:36:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-07;1.5417;Alta
+264;2026-07-07 12:19:00;2026-07-09 02:19:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-07;1.5833;Alta
+265;2026-04-05 11:19:00;2026-04-11 19:19:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-04;6.3333;Normal
+266;2026-11-10 17:32:00;2026-11-12 03:32:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-11;1.4167;Normal
+267;2026-08-06 13:49:00;2026-08-13 14:49:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-08;7.0417;Normal
+268;2026-01-11 15:17:00;2026-01-14 21:17:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-01;3.25;Alta
+269;2026-10-09 13:52:00;2026-10-09 15:52:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-10;0.0833;Baixa
+270;2026-08-31 08:47:00;2026-09-07 07:47:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-08;6.9583;Alta
+271;2026-02-25 09:11:00;2026-02-27 10:11:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-02;2.0417;Alta
+272;2026-08-24 14:25:00;2026-08-25 17:25:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-08;1.125;Normal
+273;2026-03-10 16:33:00;2026-03-16 23:33:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;6.2917;Normal
+274;2026-11-01 09:33:00;2026-11-06 00:33:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-11;4.625;Baixa
+275;2026-08-26 15:57:00;2026-08-29 11:57:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-08;2.8333;Baixa
+276;2026-10-04 16:13:00;2026-10-08 20:13:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-10;4.1667;Baixa
+277;2026-03-20 17:13:00;2026-03-24 15:13:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-03;3.9167;Normal
+278;2026-09-14 08:56:00;2026-09-16 15:56:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-09;2.2917;Normal
+279;2026-01-26 16:32:00;2026-02-01 18:32:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-01;6.0833;Alta
+280;2026-07-22 10:06:00;2026-07-24 17:06:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-07;2.2917;Baixa
+281;2026-10-16 13:28:00;;Em atendimento;Acessos;Redefinir senha;Equipe Acessos;2026-10;;Baixa
+282;2026-02-05 08:53:00;2026-02-08 23:53:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-02;3.625;Alta
+283;2026-05-01 09:50:00;2026-05-03 02:50:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-05;1.7083;Normal
+284;2026-04-12 13:45:00;;Pendente;Sistemas;Relatórios;Equipe Sistemas;2026-04;;Baixa
+285;2026-04-08 12:12:00;2026-04-11 15:12:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-04;3.125;Baixa
+286;2026-02-20 12:13:00;2026-02-20 19:13:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-02;0.2917;Normal
+287;2026-01-17 17:57:00;2026-01-23 14:57:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-01;5.875;Baixa
+288;2026-03-04 09:43:00;2026-03-08 11:43:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-03;4.0833;Alta
+289;2026-09-30 12:10:00;2026-10-06 05:10:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-09;5.7083;Alta
+290;2026-10-07 10:56:00;2026-10-14 08:56:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;6.9167;Alta
+291;2026-09-26 08:53:00;2026-09-28 03:53:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-09;1.7917;Alta
+292;2026-06-22 09:17:00;2026-06-23 18:17:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-06;1.375;Baixa
+293;2026-06-17 16:38:00;2026-06-18 02:38:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-06;0.4167;Baixa
+294;2026-01-21 16:29:00;;Novo;Sistemas;Relatórios;Equipe Sistemas;2026-01;;Baixa
+295;2026-05-20 17:55:00;2026-05-22 15:55:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-05;1.9167;Alta
+296;2026-05-18 08:33:00;2026-05-22 07:33:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-05;3.9583;Normal
+297;2026-10-24 14:54:00;;Pendente;Infraestrutura;E-mail;Equipe Suporte;2026-10;;Alta
+298;2026-05-02 08:46:00;;Pendente;Infraestrutura;Impressoras;Equipe Suporte;2026-05;;Alta
+299;2026-01-08 09:58:00;2026-01-10 12:58:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-01;2.125;Normal
+300;2026-10-15 11:04:00;2026-10-17 00:04:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-10;1.5417;Alta
+301;2026-04-06 17:50:00;2026-04-10 17:50:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-04;4.0;Normal
+302;2026-09-09 14:18:00;2026-09-11 03:18:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-09;1.5417;Baixa
+303;2026-05-05 08:04:00;2026-05-05 21:04:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-05;0.5417;Alta
+304;2026-05-09 09:30:00;2026-05-12 04:30:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-05;2.7917;Alta
+305;2026-01-03 09:33:00;2026-01-06 08:33:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;2.9583;Alta
+306;2026-04-26 17:43:00;2026-05-03 11:43:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-04;6.75;Normal
+307;2026-09-20 17:11:00;2026-09-21 15:11:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-09;0.9167;Alta
+308;2026-10-02 14:57:00;2026-10-07 22:57:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-10;5.3333;Alta
+309;2026-02-26 12:40:00;2026-02-28 03:40:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-02;1.625;Alta
+310;2026-01-07 11:06:00;2026-01-11 01:06:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-01;3.5833;Baixa
+311;2026-07-16 17:21:00;2026-07-22 13:21:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-07;5.8333;Normal
+312;2026-03-26 17:23:00;2026-03-27 22:23:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-03;1.2083;Alta
+313;2026-07-05 09:28:00;2026-07-10 13:28:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-07;5.1667;Baixa
+314;2026-08-23 17:58:00;2026-08-27 16:58:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-08;3.9583;Normal
+315;2026-11-11 16:51:00;;Pendente;Sistemas;Relatórios;Equipe Sistemas;2026-11;;Alta
+316;2026-03-05 10:42:00;;Novo;Sistemas;ERP;Equipe Sistemas;2026-03;;Alta
+317;2026-09-13 08:00:00;2026-09-19 22:00:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-09;6.5833;Baixa
+318;2026-10-08 17:05:00;2026-10-12 10:05:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-10;3.7083;Normal
+319;2026-05-22 15:55:00;2026-05-29 08:55:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-05;6.7083;Alta
+320;2026-05-30 11:28:00;2026-06-01 16:28:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-05;2.2083;Alta
+321;2026-01-30 13:26:00;2026-02-06 11:26:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-01;6.9167;Normal
+322;2026-07-29 15:03:00;2026-08-05 07:03:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-07;6.6667;Alta
+323;2026-04-20 09:26:00;2026-04-24 07:26:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;3.9167;Normal
+324;2026-07-17 10:15:00;2026-07-21 08:15:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-07;3.9167;Baixa
+325;2026-02-12 10:12:00;2026-02-15 10:12:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;3.0;Alta
+326;2026-05-24 17:15:00;2026-05-31 21:15:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-05;7.1667;Normal
+327;2026-11-04 14:44:00;;Pendente;Infraestrutura;Rede;Equipe Suporte;2026-11;;Normal
+328;2026-03-12 12:40:00;2026-03-18 07:40:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;5.7917;Alta
+329;2026-05-04 16:13:00;;Em atendimento;Infraestrutura;Rede;Equipe Suporte;2026-05;;Baixa
+330;2026-11-08 10:58:00;;Novo;Manutenção;Climatização;Equipe Manutenção;2026-11;;Normal
+331;2026-06-03 09:33:00;2026-06-07 20:33:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-06;4.4583;Baixa
+332;2026-09-10 12:40:00;2026-09-12 20:40:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-09;2.3333;Baixa
+333;2026-03-27 10:31:00;2026-03-31 08:31:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-03;3.9167;Alta
+334;2026-07-29 12:31:00;2026-08-02 21:31:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-07;4.375;Baixa
+335;2026-08-04 15:12:00;;Em atendimento;Sistemas;Portal interno;Equipe Sistemas;2026-08;;Baixa
+336;2026-02-07 08:21:00;2026-02-08 12:21:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-02;1.1667;Baixa
+337;2026-08-19 09:49:00;2026-08-24 21:49:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;5.5;Alta
+338;2026-10-04 10:03:00;2026-10-11 06:03:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-10;6.8333;Baixa
+339;2026-06-10 11:27:00;2026-06-17 07:27:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-06;6.8333;Normal
+340;2026-08-28 13:52:00;2026-08-29 04:52:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-08;0.625;Baixa
+341;2026-02-01 10:58:00;2026-02-03 17:58:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;2.2917;Normal
+342;2026-02-07 10:17:00;2026-02-11 06:17:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-02;3.8333;Normal
+343;2026-01-12 16:08:00;2026-01-19 11:08:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-01;6.7917;Baixa
+344;2026-08-27 08:50:00;;Novo;Sistemas;Relatórios;Equipe Sistemas;2026-08;;Alta
+345;2026-03-27 09:38:00;2026-04-03 17:38:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-03;7.3333;Alta
+346;2026-02-16 08:12:00;2026-02-22 20:12:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-02;6.5;Alta
+347;2026-09-18 17:30:00;2026-09-22 10:30:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-09;3.7083;Baixa
+348;2026-01-07 11:35:00;;Em atendimento;Manutenção;Mobiliário;Equipe Manutenção;2026-01;;Normal
+349;2026-06-17 17:46:00;2026-06-18 09:46:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-06;0.6667;Baixa
+350;2026-03-16 12:25:00;2026-03-19 19:25:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-03;3.2917;Baixa
+351;2026-04-01 16:57:00;2026-04-07 00:57:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-04;5.3333;Baixa
+352;2026-04-17 08:09:00;;Novo;Sistemas;ERP;Equipe Sistemas;2026-04;;Alta
+353;2026-04-10 08:12:00;2026-04-13 23:12:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-04;3.625;Normal
+354;2026-11-03 13:47:00;2026-11-08 04:47:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-11;4.625;Baixa
+355;2026-01-02 17:53:00;2026-01-07 00:53:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-01;4.2917;Alta
+356;2026-08-30 15:03:00;2026-09-04 11:03:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-08;4.8333;Normal
+357;2026-09-08 12:14:00;2026-09-09 17:14:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-09;1.2083;Normal
+358;2026-09-25 13:18:00;2026-10-01 21:18:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-09;6.3333;Alta
+359;2026-11-03 11:59:00;;Pendente;Acessos;Redefinir senha;Equipe Acessos;2026-11;;Alta
+360;2026-06-01 11:30:00;2026-06-06 21:30:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-06;5.4167;Alta
+361;2026-04-05 13:57:00;2026-04-10 15:57:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-04;5.0833;Baixa
+362;2026-01-19 12:01:00;2026-01-21 22:01:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;2.4167;Alta
+363;2026-10-02 11:19:00;;Em atendimento;Sistemas;ERP;Equipe Sistemas;2026-10;;Normal
+364;2026-10-03 13:49:00;2026-10-05 00:49:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;1.4583;Baixa
+365;2026-06-19 13:39:00;2026-06-20 12:39:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-06;0.9583;Baixa
+366;2026-01-06 15:39:00;2026-01-11 14:39:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-01;4.9583;Normal
+367;2026-01-26 12:45:00;2026-01-29 21:45:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-01;3.375;Alta
+368;2026-07-11 16:12:00;2026-07-18 12:12:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-07;6.8333;Baixa
+369;2026-10-23 17:00:00;2026-10-26 08:00:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-10;2.625;Alta
+370;2026-08-13 08:28:00;2026-08-16 10:28:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-08;3.0833;Alta
+371;2026-05-15 15:08:00;2026-05-18 12:08:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;2.875;Normal
+372;2026-02-17 16:01:00;2026-02-21 21:01:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-02;4.2083;Baixa
+373;2026-05-15 11:50:00;2026-05-19 07:50:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;3.8333;Normal
+374;2026-02-11 14:31:00;2026-02-11 23:31:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-02;0.375;Alta
+375;2026-01-11 09:22:00;2026-01-12 06:22:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-01;0.875;Alta
+376;2026-10-07 13:33:00;2026-10-10 03:33:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-10;2.5833;Normal
+377;2026-09-09 11:50:00;2026-09-09 16:50:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-09;0.2083;Baixa
+378;2026-07-17 16:27:00;2026-07-18 07:27:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-07;0.625;Alta
+379;2026-03-09 11:32:00;2026-03-11 14:32:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-03;2.125;Alta
+380;2026-04-19 13:28:00;2026-04-26 17:28:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;7.1667;Alta
+381;2026-05-16 09:14:00;2026-05-23 15:14:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-05;7.25;Baixa
+382;2026-01-22 14:28:00;2026-01-23 05:28:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;0.625;Baixa
+383;2026-05-12 14:28:00;2026-05-17 15:28:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-05;5.0417;Normal
+384;2026-05-21 16:15:00;2026-05-24 18:15:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-05;3.0833;Baixa
+385;2026-05-10 12:10:00;2026-05-14 12:10:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-05;4.0;Baixa
+386;2026-08-19 13:34:00;2026-08-19 16:34:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-08;0.125;Alta
+387;2026-04-05 10:28:00;2026-04-06 05:28:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-04;0.7917;Alta
+388;2026-02-08 17:50:00;2026-02-10 04:50:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-02;1.4583;Baixa
+389;2026-06-02 11:58:00;2026-06-04 21:58:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-06;2.4167;Alta
+390;2026-09-04 12:18:00;2026-09-06 08:18:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-09;1.8333;Alta
+391;2026-04-18 08:36:00;2026-04-21 18:36:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-04;3.4167;Normal
+392;2026-01-16 13:21:00;2026-01-19 06:21:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-01;2.7083;Normal
+393;2026-02-18 16:52:00;2026-02-24 05:52:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-02;5.5417;Alta
+394;2026-06-20 14:49:00;2026-06-27 08:49:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-06;6.75;Baixa
+395;2026-11-05 17:31:00;2026-11-06 14:31:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-11;0.875;Alta
+396;2026-05-18 11:59:00;2026-05-19 15:59:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-05;1.1667;Normal
+397;2026-09-30 12:19:00;2026-09-30 17:19:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-09;0.2083;Baixa
+398;2026-01-24 14:16:00;2026-01-29 23:16:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-01;5.375;Baixa
+399;2026-08-03 14:27:00;2026-08-10 17:27:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-08;7.125;Baixa
+400;2026-11-08 15:27:00;;Pendente;Acessos;Criar acesso;Equipe Acessos;2026-11;;Baixa
+401;2026-05-12 13:12:00;;Em atendimento;Sistemas;Integração;Equipe Sistemas;2026-05;;Baixa
+402;2026-08-18 16:20:00;2026-08-21 19:20:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-08;3.125;Baixa
+403;2026-05-22 10:57:00;2026-05-24 04:57:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-05;1.75;Alta
+404;2026-07-23 08:39:00;2026-07-28 20:39:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-07;5.5;Alta
+405;2026-05-13 08:51:00;2026-05-18 09:51:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-05;5.0417;Normal
+406;2026-04-14 14:06:00;2026-04-20 18:06:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-04;6.1667;Alta
+407;2026-08-31 08:04:00;2026-09-04 06:04:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-08;3.9167;Baixa
+408;2026-10-31 11:45:00;;Em atendimento;Infraestrutura;Computadores;Equipe Suporte;2026-10;;Normal
+409;2026-11-04 15:11:00;;Pendente;Acessos;Criar acesso;Equipe Acessos;2026-11;;Normal
+410;2026-02-20 10:10:00;2026-02-23 06:10:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-02;2.8333;Normal
+411;2026-05-21 08:29:00;2026-05-26 03:29:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-05;4.7917;Baixa
+412;2026-01-17 14:51:00;2026-01-19 21:51:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-01;2.2917;Alta
+413;2026-04-11 15:32:00;2026-04-12 13:32:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-04;0.9167;Baixa
+414;2026-03-19 08:06:00;2026-03-23 16:06:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-03;4.3333;Normal
+415;2026-01-15 11:29:00;2026-01-21 22:29:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-01;6.4583;Alta
+416;2026-09-28 14:28:00;2026-09-30 01:28:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-09;1.4583;Normal
+417;2026-09-02 10:43:00;;Em atendimento;Acessos;Redefinir senha;Equipe Acessos;2026-09;;Baixa
+418;2026-03-27 10:31:00;2026-04-03 14:31:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-03;7.1667;Alta
+419;2026-10-24 17:45:00;2026-10-29 11:45:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;4.75;Normal
+420;2026-11-03 12:58:00;2026-11-08 01:58:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-11;4.5417;Alta
+421;2026-04-28 08:04:00;2026-04-30 14:04:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-04;2.25;Baixa
+422;2026-08-04 09:18:00;2026-08-07 08:18:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-08;2.9583;Alta
+423;2026-07-26 13:21:00;2026-07-29 05:21:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;2.6667;Normal
+424;2026-01-15 09:35:00;;Em atendimento;Sistemas;Integração;Equipe Sistemas;2026-01;;Baixa
+425;2026-09-20 08:06:00;2026-09-26 07:06:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-09;5.9583;Baixa
+426;2026-03-07 16:00:00;2026-03-12 09:00:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;4.7083;Alta
+427;2026-10-29 17:59:00;;Em atendimento;Acessos;Criar acesso;Equipe Acessos;2026-10;;Alta
+428;2026-08-18 13:28:00;2026-08-19 20:28:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-08;1.2917;Baixa
+429;2026-09-15 16:22:00;2026-09-22 03:22:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-09;6.4583;Normal
+430;2026-05-21 10:25:00;2026-05-23 20:25:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-05;2.4167;Baixa
+431;2026-11-15 11:51:00;;Novo;Sistemas;Relatórios;Equipe Sistemas;2026-11;;Alta
+432;2026-10-22 09:16:00;2026-10-23 00:16:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-10;0.625;Normal
+433;2026-10-16 13:36:00;2026-10-18 10:36:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-10;1.875;Normal
+434;2026-07-15 15:19:00;2026-07-16 13:19:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;0.9167;Alta
+435;2026-08-13 14:15:00;2026-08-19 13:15:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-08;5.9583;Normal
+436;2026-08-07 10:57:00;2026-08-08 23:57:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;1.5417;Baixa
+437;2026-10-02 10:46:00;2026-10-05 17:46:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-10;3.2917;Baixa
+438;2026-07-19 15:15:00;2026-07-25 08:15:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-07;5.7083;Baixa
+439;2026-02-04 13:37:00;2026-02-08 01:37:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-02;3.5;Normal
+440;2026-09-15 13:38:00;2026-09-21 23:38:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-09;6.4167;Normal
+441;2026-07-05 11:58:00;;Pendente;Manutenção;Climatização;Equipe Manutenção;2026-07;;Normal
+442;2026-09-10 14:09:00;2026-09-14 05:09:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-09;3.625;Alta
+443;2026-07-12 17:54:00;2026-07-16 21:54:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;4.1667;Alta
+444;2026-01-04 13:56:00;2026-01-06 06:56:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;1.7083;Normal
+445;2026-05-31 13:22:00;2026-06-06 14:22:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;6.0417;Normal
+446;2026-02-23 14:44:00;2026-02-27 20:44:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;4.25;Alta
+447;2026-09-09 08:13:00;2026-09-16 19:13:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-09;7.4583;Baixa
+448;2026-08-31 15:48:00;2026-09-06 13:48:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;5.9167;Alta
+449;2026-09-17 13:39:00;2026-09-20 12:39:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-09;2.9583;Alta
+450;2026-04-02 12:04:00;2026-04-05 07:04:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-04;2.7917;Baixa
+451;2026-10-10 12:11:00;2026-10-11 23:11:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;1.4583;Alta
+452;2026-02-09 09:40:00;2026-02-16 16:40:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;7.2917;Baixa
+453;2026-03-29 11:14:00;2026-04-01 12:14:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-03;3.0417;Alta
+454;2026-09-08 13:01:00;2026-09-10 11:01:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-09;1.9167;Baixa
+455;2026-02-07 17:20:00;2026-02-13 17:20:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-02;6.0;Alta
+456;2026-04-15 11:29:00;2026-04-17 00:29:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-04;1.5417;Normal
+457;2026-10-07 16:01:00;2026-10-09 18:01:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-10;2.0833;Baixa
+458;2026-09-08 16:05:00;2026-09-13 05:05:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-09;4.5417;Baixa
+459;2026-10-17 13:21:00;2026-10-18 19:21:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-10;1.25;Baixa
+460;2026-06-18 15:32:00;2026-06-26 01:32:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-06;7.4167;Normal
+461;2026-10-05 14:38:00;2026-10-10 19:38:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;5.2083;Baixa
+462;2026-09-17 09:21:00;2026-09-19 06:21:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-09;1.875;Normal
+463;2026-09-25 11:57:00;2026-09-30 01:57:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-09;4.5833;Baixa
+464;2026-01-13 12:36:00;2026-01-19 19:36:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;6.2917;Normal
+465;2026-09-07 17:53:00;2026-09-12 21:53:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-09;5.1667;Normal
+466;2026-03-06 10:09:00;2026-03-07 22:09:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-03;1.5;Normal
+467;2026-02-11 12:53:00;2026-02-13 22:53:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-02;2.4167;Baixa
+468;2026-07-11 13:26:00;2026-07-14 05:26:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-07;2.6667;Alta
+469;2026-11-05 16:46:00;;Pendente;Acessos;Redefinir senha;Equipe Acessos;2026-11;;Baixa
+470;2026-09-27 15:09:00;;Em atendimento;Acessos;Criar acesso;Equipe Acessos;2026-09;;Normal
+471;2026-06-20 17:38:00;2026-06-21 21:38:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-06;1.1667;Alta
+472;2026-10-08 11:35:00;2026-10-11 05:35:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-10;2.75;Normal
+473;2026-09-17 12:14:00;2026-09-23 18:14:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-09;6.25;Baixa
+474;2026-09-07 16:55:00;;Pendente;Acessos;Permissões;Equipe Acessos;2026-09;;Normal
+475;2026-04-20 13:24:00;2026-04-25 14:24:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-04;5.0417;Baixa
+476;2026-10-04 10:54:00;2026-10-11 05:54:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-10;6.7917;Normal
+477;2026-05-18 10:20:00;;Pendente;Infraestrutura;Computadores;Equipe Suporte;2026-05;;Baixa
+478;2026-03-07 15:37:00;2026-03-13 07:37:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-03;5.6667;Alta
+479;2026-06-11 17:42:00;2026-06-11 21:42:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-06;0.1667;Normal
+480;2026-08-30 11:04:00;2026-09-02 05:04:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-08;2.75;Baixa
+481;2026-08-22 12:22:00;2026-08-23 23:22:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-08;1.4583;Alta
+482;2026-08-10 12:38:00;2026-08-17 14:38:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-08;7.0833;Baixa
+483;2026-03-18 12:43:00;;Novo;Sistemas;Integração;Equipe Sistemas;2026-03;;Alta
+484;2026-04-23 09:56:00;2026-04-25 23:56:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-04;2.5833;Alta
+485;2026-07-14 11:15:00;2026-07-21 17:15:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-07;7.25;Normal
+486;2026-02-19 11:01:00;2026-02-20 03:01:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-02;0.6667;Normal
+487;2026-02-13 12:57:00;2026-02-17 18:57:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;4.25;Baixa
+488;2026-10-18 15:58:00;;Pendente;Sistemas;Relatórios;Equipe Sistemas;2026-10;;Alta
+489;2026-01-21 11:44:00;2026-01-25 01:44:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;3.5833;Alta
+490;2026-08-10 12:18:00;;Pendente;Acessos;Criar acesso;Equipe Acessos;2026-08;;Alta
+491;2026-03-11 15:57:00;2026-03-12 18:57:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-03;1.125;Baixa
+492;2026-05-23 12:04:00;2026-05-28 05:04:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-05;4.7083;Baixa
+493;2026-07-24 09:02:00;2026-07-29 08:02:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-07;4.9583;Alta
+494;2026-02-14 09:14:00;2026-02-16 18:14:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-02;2.375;Baixa
+495;2026-08-23 08:04:00;2026-08-28 12:04:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;5.1667;Alta
+496;2026-01-27 16:51:00;2026-02-01 14:51:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-01;4.9167;Normal
+497;2026-01-12 11:59:00;2026-01-17 22:59:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-01;5.4583;Baixa
+498;2026-05-25 10:40:00;2026-06-01 11:40:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-05;7.0417;Alta
+499;2026-03-07 15:33:00;2026-03-09 12:33:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-03;1.875;Alta
+500;2026-05-23 14:05:00;2026-05-30 09:05:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-05;6.7917;Baixa
+501;2026-04-27 10:18:00;2026-04-28 15:18:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-04;1.2083;Alta
+502;2026-06-18 14:31:00;2026-06-21 21:31:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-06;3.2917;Baixa
+503;2026-08-30 13:06:00;2026-09-06 22:06:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-08;7.375;Alta
+504;2026-03-15 08:22:00;2026-03-20 15:22:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-03;5.2917;Normal
+505;2026-06-07 17:53:00;;Pendente;Sistemas;Integração;Equipe Sistemas;2026-06;;Baixa
+506;2026-04-27 17:09:00;2026-04-28 11:09:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-04;0.75;Baixa
+507;2026-01-11 10:35:00;2026-01-16 16:35:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-01;5.25;Alta
+508;2026-02-20 15:27:00;2026-02-28 00:27:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-02;7.375;Normal
+509;2026-10-20 12:54:00;2026-10-20 20:54:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-10;0.3333;Alta
+510;2026-05-16 12:08:00;2026-05-18 16:08:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-05;2.1667;Baixa
+511;2026-10-06 17:04:00;2026-10-10 11:04:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-10;3.75;Normal
+512;2026-04-21 16:08:00;2026-04-27 21:08:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-04;6.2083;Normal
+513;2026-01-19 14:11:00;2026-01-21 20:11:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;2.25;Normal
+514;2026-02-04 16:56:00;2026-02-09 18:56:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-02;5.0833;Alta
+515;2026-06-15 12:19:00;2026-06-18 18:19:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-06;3.25;Baixa
+516;2026-01-07 12:03:00;2026-01-10 00:03:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-01;2.5;Alta
+517;2026-05-16 09:28:00;2026-05-20 02:28:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-05;3.7083;Normal
+518;2026-09-03 12:49:00;2026-09-10 23:49:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-09;7.4583;Alta
+519;2026-03-11 13:24:00;2026-03-12 02:24:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-03;0.5417;Alta
+520;2026-06-21 16:15:00;2026-06-27 01:15:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-06;5.375;Alta
+521;2026-07-03 16:16:00;2026-07-10 16:16:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-07;7.0;Alta
+522;2026-01-21 15:45:00;2026-01-22 17:45:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-01;1.0833;Normal
+523;2026-10-05 12:00:00;;Pendente;Acessos;Redefinir senha;Equipe Acessos;2026-10;;Baixa
+524;2026-11-03 08:51:00;2026-11-10 06:51:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-11;6.9167;Baixa
+525;2026-04-17 10:35:00;2026-04-20 22:35:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-04;3.5;Alta
+526;2026-01-07 12:00:00;2026-01-12 01:00:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;4.5417;Baixa
+527;2026-02-24 12:26:00;2026-03-02 13:26:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-02;6.0417;Baixa
+528;2026-09-19 14:12:00;2026-09-25 06:12:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-09;5.6667;Baixa
+529;2026-01-17 14:54:00;2026-01-21 18:54:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-01;4.1667;Normal
+530;2026-04-20 08:07:00;2026-04-25 23:07:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-04;5.625;Baixa
+531;2026-06-11 17:24:00;2026-06-17 04:24:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-06;5.4583;Alta
+532;2026-05-24 16:53:00;2026-05-29 05:53:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-05;4.5417;Alta
+533;2026-08-28 13:55:00;2026-09-04 12:55:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-08;6.9583;Baixa
+534;2026-01-03 14:38:00;2026-01-04 18:38:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-01;1.1667;Alta
+535;2026-08-24 10:14:00;2026-08-28 11:14:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;4.0417;Alta
+536;2026-03-24 15:30:00;2026-03-29 04:30:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-03;4.5417;Baixa
+537;2026-01-07 12:32:00;2026-01-10 03:32:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;2.625;Normal
+538;2026-08-23 12:54:00;2026-08-24 09:54:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-08;0.875;Normal
+539;2026-06-15 11:56:00;2026-06-19 08:56:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-06;3.875;Baixa
+540;2026-07-11 17:19:00;2026-07-17 18:19:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-07;6.0417;Normal
+541;2026-06-04 15:04:00;2026-06-11 16:04:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-06;7.0417;Alta
+542;2026-05-11 16:24:00;2026-05-14 01:24:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-05;2.375;Alta
+543;2026-01-28 15:35:00;2026-01-30 14:35:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-01;1.9583;Alta
+544;2026-02-13 16:05:00;2026-02-16 00:05:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;2.3333;Baixa
+545;2026-09-19 13:21:00;;Em atendimento;Acessos;Permissões;Equipe Acessos;2026-09;;Alta
+546;2026-08-06 16:18:00;2026-08-07 04:18:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-08;0.5;Baixa
+547;2026-05-27 16:28:00;2026-05-31 15:28:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-05;3.9583;Alta
+548;2026-06-10 13:32:00;2026-06-16 23:32:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-06;6.4167;Alta
+549;2026-06-29 12:35:00;2026-07-06 10:35:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-06;6.9167;Normal
+550;2026-10-01 13:08:00;2026-10-07 11:08:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-10;5.9167;Normal
+551;2026-04-22 17:08:00;2026-04-29 10:08:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-04;6.7083;Alta
+552;2026-07-15 16:50:00;2026-07-21 16:50:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-07;6.0;Baixa
+553;2026-10-02 16:45:00;2026-10-09 16:45:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;7.0;Alta
+554;2026-08-29 10:07:00;2026-08-31 20:07:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;2.4167;Baixa
+555;2026-10-03 17:30:00;2026-10-09 21:30:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;6.1667;Normal
+556;2026-11-02 12:48:00;2026-11-05 13:48:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-11;3.0417;Baixa
+557;2026-01-20 13:47:00;2026-01-23 21:47:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-01;3.3333;Normal
+558;2026-02-26 10:51:00;2026-03-01 14:51:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;3.1667;Alta
+559;2026-07-02 16:06:00;2026-07-07 14:06:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-07;4.9167;Baixa
+560;2026-05-04 14:57:00;2026-05-12 00:57:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-05;7.4167;Normal
+561;2026-04-19 08:27:00;2026-04-24 10:27:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-04;5.0833;Baixa
+562;2026-06-18 15:29:00;2026-06-20 15:29:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-06;2.0;Normal
+563;2026-09-04 16:29:00;2026-09-10 01:29:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-09;5.375;Alta
+564;2026-05-07 16:46:00;2026-05-10 00:46:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-05;2.3333;Normal
+565;2026-05-23 12:02:00;2026-05-30 20:02:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-05;7.3333;Normal
+566;2026-04-19 14:19:00;2026-04-21 18:19:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-04;2.1667;Alta
+567;2026-01-02 16:53:00;2026-01-07 22:53:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-01;5.25;Baixa
+568;2026-06-16 17:29:00;2026-06-17 19:29:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-06;1.0833;Normal
+569;2026-07-13 14:37:00;2026-07-16 12:37:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-07;2.9167;Normal
+570;2026-06-13 11:55:00;2026-06-14 18:55:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-06;1.2917;Normal
+571;2026-03-26 08:18:00;2026-03-28 20:18:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-03;2.5;Alta
+572;2026-02-04 10:39:00;2026-02-08 20:39:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;4.4167;Alta
+573;2026-10-04 12:29:00;2026-10-08 02:29:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-10;3.5833;Normal
+574;2026-04-27 17:49:00;2026-05-05 04:49:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-04;7.4583;Alta
+575;2026-09-02 09:45:00;2026-09-07 00:45:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-09;4.625;Baixa
+576;2026-09-12 11:42:00;;Em atendimento;Infraestrutura;Rede;Equipe Suporte;2026-09;;Alta
+577;2026-10-15 17:39:00;2026-10-22 08:39:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-10;6.625;Normal
+578;2026-11-10 14:48:00;2026-11-16 00:00:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-11;5.3833;Normal
+579;2026-11-13 16:14:00;;Novo;Manutenção;Elétrica;Equipe Manutenção;2026-11;;Alta
+580;2026-10-05 13:57:00;2026-10-09 05:57:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-10;3.6667;Baixa
+581;2026-06-06 14:18:00;2026-06-11 06:18:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-06;4.6667;Baixa
+582;2026-09-04 14:03:00;2026-09-04 22:03:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-09;0.3333;Alta
+583;2026-08-29 12:59:00;2026-09-03 17:59:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;5.2083;Normal
+584;2026-09-14 09:10:00;2026-09-19 13:10:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-09;5.1667;Alta
+585;2026-08-25 10:03:00;;Em atendimento;Sistemas;Portal interno;Equipe Sistemas;2026-08;;Alta
+586;2026-06-14 09:38:00;2026-06-16 12:38:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-06;2.125;Normal
+587;2026-05-28 17:00:00;2026-06-01 21:00:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-05;4.1667;Normal
+588;2026-06-19 10:33:00;2026-06-19 15:33:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-06;0.2083;Baixa
+589;2026-03-12 12:52:00;2026-03-17 23:52:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;5.4583;Baixa
+590;2026-04-22 09:47:00;2026-04-28 11:47:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-04;6.0833;Normal
+591;2026-02-02 11:07:00;;Pendente;Acessos;Redefinir senha;Equipe Acessos;2026-02;;Alta
+592;2026-05-16 16:58:00;2026-05-22 01:58:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;5.375;Baixa
+593;2026-08-29 14:35:00;2026-08-31 23:35:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-08;2.375;Normal
+594;2026-05-23 17:08:00;2026-05-27 06:08:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-05;3.5417;Normal
+595;2026-01-09 10:37:00;2026-01-10 18:37:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-01;1.3333;Baixa
+596;2026-06-11 09:34:00;2026-06-18 20:34:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-06;7.4583;Normal
+597;2026-08-11 15:36:00;2026-08-14 06:36:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;2.625;Baixa
+598;2026-07-22 12:44:00;2026-07-25 07:44:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-07;2.7917;Alta
+599;2026-05-30 12:42:00;2026-06-06 00:42:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-05;6.5;Baixa
+600;2026-07-13 12:21:00;2026-07-16 21:21:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-07;3.375;Alta
+601;2026-04-24 15:29:00;2026-04-26 00:29:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-04;1.375;Normal
+602;2026-05-06 15:04:00;;Em atendimento;Infraestrutura;Impressoras;Equipe Suporte;2026-05;;Normal
+603;2026-09-27 12:50:00;2026-09-28 19:50:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-09;1.2917;Alta
+604;2026-10-06 11:35:00;2026-10-13 19:35:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-10;7.3333;Normal
+605;2026-02-28 11:25:00;2026-03-05 14:25:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-02;5.125;Alta
+606;2026-10-07 16:21:00;2026-10-08 01:21:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-10;0.375;Normal
+607;2026-05-13 09:24:00;2026-05-20 11:24:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-05;7.0833;Baixa
+608;2026-03-13 12:54:00;2026-03-19 00:54:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-03;5.5;Baixa
+609;2026-09-30 12:27:00;2026-10-01 23:27:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-09;1.4583;Alta
+610;2026-05-11 08:01:00;2026-05-18 09:01:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-05;7.0417;Baixa
+611;2026-01-07 15:34:00;2026-01-10 09:34:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-01;2.75;Alta
+612;2026-02-21 15:22:00;2026-02-24 01:22:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-02;2.4167;Alta
+613;2026-10-11 16:44:00;2026-10-18 05:44:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-10;6.5417;Normal
+614;2026-01-18 14:05:00;2026-01-23 02:05:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-01;4.5;Alta
+615;2026-07-08 11:36:00;2026-07-09 17:36:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-07;1.25;Alta
+616;2026-01-05 14:25:00;2026-01-10 17:25:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-01;5.125;Alta
+617;2026-05-01 12:05:00;2026-05-04 22:05:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-05;3.4167;Alta
+618;2026-08-26 09:24:00;2026-08-29 09:24:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;3.0;Alta
+619;2026-10-14 17:34:00;2026-10-18 11:34:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;3.75;Baixa
+620;2026-03-28 15:52:00;2026-03-29 02:52:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;0.4583;Baixa
+621;2026-10-09 11:53:00;;Pendente;Sistemas;Relatórios;Equipe Sistemas;2026-10;;Normal
+622;2026-02-16 15:26:00;2026-02-18 18:26:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-02;2.125;Alta
+623;2026-04-21 14:32:00;2026-04-23 07:32:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;1.7083;Alta
+624;2026-10-02 12:52:00;;Em atendimento;Acessos;Redefinir senha;Equipe Acessos;2026-10;;Baixa
+625;2026-10-06 15:02:00;2026-10-13 14:02:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-10;6.9583;Baixa
+626;2026-05-11 14:21:00;2026-05-16 06:21:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-05;4.6667;Alta
+627;2026-01-05 13:57:00;2026-01-09 18:57:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;4.2083;Alta
+628;2026-08-19 10:06:00;2026-08-26 04:06:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;6.75;Normal
+629;2026-01-12 12:27:00;;Pendente;Infraestrutura;Impressoras;Equipe Suporte;2026-01;;Baixa
+630;2026-10-04 09:56:00;2026-10-11 15:56:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-10;7.25;Baixa
+631;2026-04-11 13:41:00;2026-04-17 04:41:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-04;5.625;Alta
+632;2026-11-15 13:21:00;2026-11-16 00:00:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-11;0.4437;Normal
+633;2026-09-20 10:45:00;2026-09-27 02:45:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-09;6.6667;Baixa
+634;2026-09-09 10:28:00;2026-09-13 06:28:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-09;3.8333;Baixa
+635;2026-11-01 08:31:00;2026-11-02 19:31:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-11;1.4583;Alta
+636;2026-02-01 09:25:00;;Pendente;Acessos;Permissões;Equipe Acessos;2026-02;;Normal
+637;2026-07-05 14:57:00;2026-07-06 11:57:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-07;0.875;Normal
+638;2026-09-22 10:31:00;2026-09-27 10:31:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-09;5.0;Alta
+639;2026-07-30 17:01:00;2026-08-06 00:01:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;6.2917;Alta
+640;2026-01-07 13:56:00;2026-01-13 15:56:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-01;6.0833;Baixa
+641;2026-08-26 12:12:00;2026-09-01 06:12:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-08;5.75;Normal
+642;2026-04-25 08:21:00;2026-04-27 15:21:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-04;2.2917;Normal
+643;2026-11-05 16:07:00;2026-11-11 14:07:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-11;5.9167;Baixa
+644;2026-09-10 11:45:00;2026-09-14 01:45:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-09;3.5833;Baixa
+645;2026-02-22 09:03:00;2026-02-23 05:03:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-02;0.8333;Alta
+646;2026-07-21 11:49:00;2026-07-27 20:49:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-07;6.375;Baixa
+647;2026-06-22 15:06:00;2026-06-22 20:06:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-06;0.2083;Alta
+648;2026-02-01 10:02:00;2026-02-08 11:02:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-02;7.0417;Alta
+649;2026-07-23 13:34:00;2026-07-27 01:34:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-07;3.5;Baixa
+650;2026-07-30 08:17:00;2026-08-02 06:17:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-07;2.9167;Alta
+651;2026-04-21 16:53:00;2026-04-26 02:53:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-04;4.4167;Normal
+652;2026-01-28 12:45:00;2026-01-28 18:45:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-01;0.25;Baixa
+653;2026-02-03 15:23:00;2026-02-07 14:23:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;3.9583;Normal
+654;2026-04-22 09:49:00;2026-04-22 17:49:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;0.3333;Baixa
+655;2026-04-08 11:38:00;2026-04-08 18:38:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-04;0.2917;Normal
+656;2026-05-25 09:12:00;2026-05-25 15:12:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-05;0.25;Baixa
+657;2026-05-30 17:23:00;2026-06-05 02:23:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-05;5.375;Alta
+658;2026-07-23 09:16:00;2026-07-27 07:16:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-07;3.9167;Normal
+659;2026-11-08 09:48:00;;Em atendimento;Acessos;Criar acesso;Equipe Acessos;2026-11;;Baixa
+660;2026-08-11 08:22:00;2026-08-14 16:22:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-08;3.3333;Alta
+661;2026-02-07 08:10:00;2026-02-07 19:10:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-02;0.4583;Baixa
+662;2026-08-02 13:41:00;2026-08-06 00:41:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-08;3.4583;Normal
+663;2026-02-03 10:26:00;2026-02-04 21:26:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-02;1.4583;Baixa
+664;2026-01-30 10:39:00;2026-01-30 14:39:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-01;0.1667;Normal
+665;2026-03-30 09:11:00;2026-03-30 17:11:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;0.3333;Normal
+666;2026-04-08 14:00:00;2026-04-12 03:00:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-04;3.5417;Baixa
+667;2026-07-17 09:01:00;2026-07-24 11:01:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-07;7.0833;Normal
+668;2026-10-09 10:59:00;2026-10-16 22:59:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-10;7.5;Baixa
+669;2026-01-08 17:03:00;2026-01-14 14:03:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-01;5.875;Alta
+670;2026-10-16 11:36:00;2026-10-18 09:36:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;1.9167;Baixa
+671;2026-05-21 10:08:00;2026-05-24 04:08:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-05;2.75;Alta
+672;2026-04-25 11:36:00;2026-04-27 03:36:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-04;1.6667;Alta
+673;2026-04-08 15:24:00;;Novo;Sistemas;ERP;Equipe Sistemas;2026-04;;Normal
+674;2026-09-16 12:34:00;2026-09-21 19:34:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-09;5.2917;Baixa
+675;2026-11-02 09:30:00;2026-11-07 03:30:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-11;4.75;Baixa
+676;2026-01-10 15:14:00;2026-01-14 00:14:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-01;3.375;Alta
+677;2026-10-23 13:10:00;2026-10-25 23:10:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-10;2.4167;Normal
+678;2026-11-09 13:26:00;;Em atendimento;Infraestrutura;Impressoras;Equipe Suporte;2026-11;;Normal
+679;2026-03-15 08:21:00;;Novo;Sistemas;Portal interno;Equipe Sistemas;2026-03;;Baixa
+680;2026-11-09 08:17:00;2026-11-15 02:17:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-11;5.75;Baixa
+681;2026-07-27 16:10:00;2026-08-03 15:10:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-07;6.9583;Baixa
+682;2026-03-16 17:53:00;2026-03-23 19:53:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-03;7.0833;Normal
+683;2026-04-25 16:41:00;2026-04-27 14:41:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;1.9167;Normal
+684;2026-10-02 10:22:00;2026-10-05 21:22:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-10;3.4583;Alta
+685;2026-02-28 08:54:00;2026-03-06 18:54:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-02;6.4167;Baixa
+686;2026-10-21 11:05:00;2026-10-25 02:05:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;3.625;Baixa
+687;2026-09-10 10:33:00;;Novo;Acessos;Redefinir senha;Equipe Acessos;2026-09;;Normal
+688;2026-10-10 12:53:00;2026-10-13 23:53:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-10;3.4583;Normal
+689;2026-08-26 15:01:00;2026-08-30 19:01:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;4.1667;Alta
+690;2026-06-14 11:43:00;2026-06-17 04:43:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-06;2.7083;Alta
+691;2026-06-29 08:05:00;2026-06-30 04:05:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-06;0.8333;Baixa
+692;2026-05-20 17:32:00;2026-05-27 08:32:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-05;6.625;Baixa
+693;2026-01-06 11:14:00;2026-01-07 10:14:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;0.9583;Baixa
+694;2026-06-23 15:38:00;2026-06-28 11:38:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-06;4.8333;Baixa
+695;2026-09-20 16:10:00;2026-09-21 17:10:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-09;1.0417;Alta
+696;2026-07-23 15:57:00;2026-07-27 00:57:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-07;3.375;Normal
+697;2026-02-12 10:50:00;2026-02-12 20:50:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;0.4167;Baixa
+698;2026-11-14 10:17:00;;Em atendimento;Sistemas;Relatórios;Equipe Sistemas;2026-11;;Alta
+699;2026-08-24 16:42:00;2026-08-29 22:42:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-08;5.25;Normal
+700;2026-10-23 11:15:00;2026-10-24 06:15:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-10;0.7917;Normal
+701;2026-06-22 15:21:00;2026-06-27 01:21:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-06;4.4167;Alta
+702;2026-01-04 14:15:00;2026-01-10 10:15:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;5.8333;Alta
+703;2026-01-03 13:11:00;;Pendente;Sistemas;Relatórios;Equipe Sistemas;2026-01;;Alta
+704;2026-09-02 16:54:00;2026-09-06 00:54:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-09;3.3333;Baixa
+705;2026-06-16 11:42:00;2026-06-20 09:42:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-06;3.9167;Alta
+706;2026-05-01 09:21:00;2026-05-06 09:21:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;5.0;Baixa
+707;2026-03-05 17:37:00;2026-03-07 06:37:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-03;1.5417;Baixa
+708;2026-09-11 17:11:00;2026-09-17 19:11:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-09;6.0833;Baixa
+709;2026-03-06 08:03:00;2026-03-07 21:03:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-03;1.5417;Baixa
+710;2026-10-27 11:48:00;2026-10-27 16:48:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;0.2083;Normal
+711;2026-05-29 12:39:00;2026-06-03 14:39:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-05;5.0833;Baixa
+712;2026-03-04 09:57:00;2026-03-08 15:57:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-03;4.25;Alta
+713;2026-05-09 13:32:00;2026-05-14 12:32:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-05;4.9583;Baixa
+714;2026-01-10 16:36:00;2026-01-15 11:36:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;4.7917;Normal
+715;2026-06-09 09:29:00;2026-06-15 09:29:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-06;6.0;Normal
+716;2026-08-03 17:09:00;2026-08-06 18:09:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;3.0417;Baixa
+717;2026-08-04 14:11:00;2026-08-04 16:11:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-08;0.0833;Normal
+718;2026-04-27 13:50:00;2026-05-04 20:50:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-04;7.2917;Baixa
+719;2026-05-29 10:47:00;;Novo;Sistemas;ERP;Equipe Sistemas;2026-05;;Normal
+720;2026-09-27 12:36:00;2026-09-30 18:36:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-09;3.25;Alta
+721;2026-01-27 12:51:00;2026-02-03 01:51:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;6.5417;Baixa
+722;2026-07-07 08:58:00;2026-07-12 16:58:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-07;5.3333;Baixa
+723;2026-07-12 14:29:00;2026-07-19 16:29:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-07;7.0833;Alta
+724;2026-04-30 15:57:00;2026-05-06 03:57:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-04;5.5;Alta
+725;2026-10-23 13:58:00;2026-10-30 12:58:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-10;6.9583;Normal
+726;2026-10-06 16:37:00;2026-10-13 01:37:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;6.375;Alta
+727;2026-03-31 12:54:00;2026-04-07 06:54:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-03;6.75;Normal
+728;2026-01-23 14:53:00;2026-01-30 16:53:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-01;7.0833;Alta
+729;2026-09-26 13:38:00;2026-10-03 02:38:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-09;6.5417;Alta
+730;2026-09-22 10:46:00;2026-09-26 18:46:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-09;4.3333;Alta
+731;2026-10-17 17:54:00;2026-10-19 12:54:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-10;1.7917;Normal
+732;2026-07-01 08:16:00;;Em atendimento;Sistemas;Relatórios;Equipe Sistemas;2026-07;;Alta
+733;2026-11-05 09:02:00;2026-11-06 01:02:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-11;0.6667;Normal
+734;2026-06-23 17:34:00;;Novo;Sistemas;Integração;Equipe Sistemas;2026-06;;Normal
+735;2026-02-24 10:19:00;2026-02-25 13:19:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;1.125;Baixa
+736;2026-10-16 14:22:00;2026-10-21 07:22:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;4.7083;Alta
+737;2026-04-28 09:36:00;2026-05-02 01:36:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-04;3.6667;Normal
+738;2026-08-07 10:56:00;2026-08-13 21:56:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-08;6.4583;Baixa
+739;2026-08-21 15:10:00;2026-08-23 19:10:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-08;2.1667;Alta
+740;2026-10-28 12:50:00;;Pendente;Acessos;Redefinir senha;Equipe Acessos;2026-10;;Alta
+741;2026-03-14 14:14:00;;Pendente;Infraestrutura;Impressoras;Equipe Suporte;2026-03;;Alta
+742;2026-07-06 15:39:00;2026-07-13 18:39:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;7.125;Alta
+743;2026-04-15 10:08:00;2026-04-22 06:08:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;6.8333;Normal
+744;2026-03-23 09:21:00;2026-03-27 12:21:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-03;4.125;Baixa
+745;2026-01-09 16:27:00;2026-01-11 22:27:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-01;2.25;Baixa
+746;2026-05-27 17:10:00;2026-06-04 01:10:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-05;7.3333;Normal
+747;2026-10-14 09:12:00;2026-10-16 08:12:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-10;1.9583;Normal
+748;2026-04-15 16:08:00;2026-04-19 18:08:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;4.0833;Normal
+749;2026-01-09 14:30:00;2026-01-16 17:30:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;7.125;Normal
+750;2026-06-06 16:13:00;2026-06-07 10:13:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-06;0.75;Baixa
+751;2026-03-02 14:37:00;2026-03-02 21:37:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-03;0.2917;Baixa
+752;2026-08-21 13:25:00;2026-08-23 21:25:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;2.3333;Normal
+753;2026-03-25 15:17:00;;Novo;Manutenção;Mobiliário;Equipe Manutenção;2026-03;;Alta
+754;2026-07-22 17:33:00;2026-07-27 04:33:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-07;4.4583;Normal
+755;2026-09-03 13:46:00;2026-09-07 15:46:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-09;4.0833;Normal
+756;2026-07-15 10:08:00;2026-07-22 07:08:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;6.875;Normal
+757;2026-03-06 15:00:00;2026-03-09 03:00:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-03;2.5;Baixa
+758;2026-10-02 10:32:00;2026-10-05 22:32:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-10;3.5;Baixa
+759;2026-04-19 11:56:00;2026-04-20 15:56:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;1.1667;Baixa
+760;2026-08-09 13:31:00;;Novo;Acessos;Permissões;Equipe Acessos;2026-08;;Alta
+761;2026-02-01 08:15:00;2026-02-03 09:15:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-02;2.0417;Normal
+762;2026-02-20 17:25:00;2026-02-21 00:25:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-02;0.2917;Baixa
+763;2026-08-23 10:13:00;2026-08-25 10:13:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;2.0;Normal
+764;2026-04-25 14:37:00;2026-04-25 17:37:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-04;0.125;Alta
+765;2026-05-13 08:41:00;2026-05-14 19:41:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-05;1.4583;Baixa
+766;2026-10-20 09:29:00;2026-10-22 02:29:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;1.7083;Baixa
+767;2026-02-05 09:00:00;2026-02-10 22:00:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-02;5.5417;Normal
+768;2026-10-28 12:26:00;;Novo;Sistemas;Portal interno;Equipe Sistemas;2026-10;;Normal
+769;2026-01-05 13:26:00;2026-01-06 09:26:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-01;0.8333;Normal
+770;2026-09-14 15:14:00;2026-09-14 23:14:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-09;0.3333;Baixa
+771;2026-05-02 13:11:00;2026-05-05 05:11:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-05;2.6667;Normal
+772;2026-02-27 08:30:00;2026-03-05 03:30:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-02;5.7917;Normal
+773;2026-08-23 11:17:00;;Em atendimento;Infraestrutura;Impressoras;Equipe Suporte;2026-08;;Baixa
+774;2026-10-20 17:40:00;2026-10-22 20:40:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;2.125;Normal
+775;2026-03-01 14:07:00;;Em atendimento;Manutenção;Mobiliário;Equipe Manutenção;2026-03;;Baixa
+776;2026-03-20 12:13:00;2026-03-21 00:13:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-03;0.5;Alta
+777;2026-10-15 11:39:00;2026-10-17 13:39:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-10;2.0833;Alta
+778;2026-10-04 11:32:00;2026-10-06 14:32:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;2.125;Baixa
+779;2026-10-06 08:46:00;2026-10-09 04:46:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-10;2.8333;Alta
+780;2026-01-12 16:06:00;2026-01-14 17:06:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;2.0417;Baixa
+781;2026-03-04 14:07:00;2026-03-11 19:07:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-03;7.2083;Baixa
+782;2026-08-24 10:35:00;2026-08-26 04:35:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;1.75;Normal
+783;2026-07-17 16:43:00;2026-07-18 15:43:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-07;0.9583;Normal
+784;2026-07-26 14:02:00;2026-07-29 14:02:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-07;3.0;Alta
+785;2026-04-21 08:34:00;2026-04-22 05:34:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-04;0.875;Normal
+786;2026-01-05 13:08:00;2026-01-09 18:08:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;4.2083;Alta
+787;2026-07-05 09:52:00;2026-07-10 19:52:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-07;5.4167;Baixa
+788;2026-08-11 12:05:00;2026-08-16 09:05:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-08;4.875;Normal
+789;2026-08-16 13:24:00;2026-08-23 23:24:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;7.4167;Normal
+790;2026-05-24 12:13:00;2026-05-27 21:13:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-05;3.375;Alta
+791;2026-03-01 14:05:00;2026-03-06 02:05:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;4.5;Alta
+792;2026-07-07 12:30:00;2026-07-14 11:30:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-07;6.9583;Alta
+793;2026-01-12 10:13:00;2026-01-16 16:13:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;4.25;Normal
+794;2026-08-28 12:15:00;2026-09-04 13:15:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-08;7.0417;Normal
+795;2026-10-04 17:54:00;2026-10-06 00:54:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-10;1.2917;Alta
+796;2026-01-12 11:06:00;2026-01-16 03:06:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-01;3.6667;Baixa
+797;2026-10-05 10:06:00;2026-10-12 13:06:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;7.125;Normal
+798;2026-06-23 11:29:00;2026-06-25 16:29:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-06;2.2083;Baixa
+799;2026-05-19 10:02:00;2026-05-25 13:02:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-05;6.125;Baixa
+800;2026-05-14 14:24:00;2026-05-20 15:24:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-05;6.0417;Alta
+801;2026-08-17 12:50:00;2026-08-22 12:50:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-08;5.0;Alta
+802;2026-02-03 10:45:00;2026-02-08 03:45:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-02;4.7083;Baixa
+803;2026-01-03 09:43:00;2026-01-10 18:43:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-01;7.375;Baixa
+804;2026-06-27 13:31:00;2026-07-04 06:31:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-06;6.7083;Normal
+805;2026-10-23 14:41:00;;Em atendimento;Manutenção;Elétrica;Equipe Manutenção;2026-10;;Normal
+806;2026-08-16 15:37:00;2026-08-21 13:37:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-08;4.9167;Baixa
+807;2026-07-06 17:57:00;2026-07-06 19:57:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;0.0833;Alta
+808;2026-08-23 17:12:00;2026-08-24 12:12:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;0.7917;Baixa
+809;2026-01-16 17:07:00;2026-01-21 04:07:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-01;4.4583;Baixa
+810;2026-09-13 17:31:00;2026-09-17 19:31:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-09;4.0833;Baixa
+811;2026-04-30 13:09:00;;Pendente;Manutenção;Climatização;Equipe Manutenção;2026-04;;Normal
+812;2026-03-14 15:01:00;2026-03-20 09:01:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;5.75;Baixa
+813;2026-07-22 17:31:00;2026-07-29 07:31:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-07;6.5833;Alta
+814;2026-08-28 16:34:00;2026-09-04 17:34:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;7.0417;Alta
+815;2026-02-09 12:46:00;;Em atendimento;Acessos;Criar acesso;Equipe Acessos;2026-02;;Normal
+816;2026-02-13 12:41:00;2026-02-13 21:41:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-02;0.375;Alta
+817;2026-10-06 12:50:00;2026-10-08 19:50:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;2.2917;Alta
+818;2026-01-02 14:10:00;;Novo;Sistemas;Portal interno;Equipe Sistemas;2026-01;;Alta
+819;2026-06-13 09:44:00;2026-06-18 08:44:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-06;4.9583;Alta
+820;2026-08-12 11:10:00;2026-08-15 04:10:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-08;2.7083;Alta
+821;2026-07-11 10:40:00;2026-07-13 19:40:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-07;2.375;Alta
+822;2026-11-02 17:24:00;;Em atendimento;Sistemas;Portal interno;Equipe Sistemas;2026-11;;Alta
+823;2026-06-17 08:13:00;2026-06-23 10:13:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-06;6.0833;Normal
+824;2026-09-26 11:41:00;2026-10-01 12:41:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-09;5.0417;Alta
+825;2026-04-21 14:44:00;2026-04-25 00:44:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-04;3.4167;Baixa
+826;2026-03-23 15:37:00;2026-03-24 06:37:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-03;0.625;Alta
+827;2026-11-13 17:12:00;2026-11-16 00:00:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-11;2.2833;Alta
+828;2026-02-05 08:34:00;2026-02-12 18:34:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;7.4167;Baixa
+829;2026-02-28 11:44:00;2026-03-07 05:44:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-02;6.75;Normal
+830;2026-05-02 17:27:00;2026-05-07 21:27:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-05;5.1667;Normal
+831;2026-04-29 11:13:00;2026-05-04 19:13:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-04;5.3333;Alta
+832;2026-08-31 14:21:00;2026-09-06 14:21:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-08;6.0;Alta
+833;2026-06-25 17:37:00;2026-06-26 12:37:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-06;0.7917;Normal
+834;2026-08-20 08:13:00;2026-08-23 17:13:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-08;3.375;Baixa
+835;2026-10-23 13:53:00;2026-10-26 21:53:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-10;3.3333;Normal
+836;2026-02-25 10:04:00;2026-03-04 08:04:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-02;6.9167;Normal
+837;2026-11-09 09:24:00;2026-11-11 15:24:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-11;2.25;Baixa
+838;2026-03-06 14:36:00;;Novo;Infraestrutura;Impressoras;Equipe Suporte;2026-03;;Alta
+839;2026-09-30 10:47:00;2026-10-02 07:47:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-09;1.875;Alta
+840;2026-03-03 11:49:00;2026-03-06 18:49:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;3.2917;Baixa
+841;2026-01-09 09:25:00;2026-01-16 00:25:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-01;6.625;Normal
+842;2026-02-16 13:55:00;2026-02-17 00:55:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-02;0.4583;Baixa
+843;2026-10-20 16:57:00;2026-10-23 05:57:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-10;2.5417;Alta
+844;2026-06-28 10:13:00;2026-07-01 05:13:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-06;2.7917;Alta
+845;2026-10-21 17:37:00;;Em atendimento;Sistemas;Relatórios;Equipe Sistemas;2026-10;;Alta
+846;2026-09-22 08:33:00;2026-09-24 21:33:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-09;2.5417;Alta
+847;2026-05-07 13:19:00;2026-05-09 13:19:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-05;2.0;Normal
+848;2026-07-30 10:22:00;2026-08-01 21:22:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-07;2.4583;Baixa
+849;2026-01-24 15:31:00;2026-01-29 01:31:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-01;4.4167;Normal
+850;2026-09-24 16:44:00;2026-09-25 18:44:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-09;1.0833;Normal
+851;2026-02-22 13:38:00;2026-02-26 09:38:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-02;3.8333;Normal
+852;2026-03-05 09:14:00;2026-03-12 07:14:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-03;6.9167;Alta
+853;2026-08-04 10:28:00;2026-08-11 01:28:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-08;6.625;Normal
+854;2026-08-04 15:09:00;;Novo;Infraestrutura;Rede;Equipe Suporte;2026-08;;Alta
+855;2026-06-20 16:21:00;2026-06-23 22:21:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-06;3.25;Baixa
+856;2026-05-21 17:36:00;2026-05-23 07:36:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-05;1.5833;Alta
+857;2026-01-06 13:20:00;2026-01-13 08:20:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;6.7917;Normal
+858;2026-08-16 08:53:00;;Novo;Infraestrutura;E-mail;Equipe Suporte;2026-08;;Baixa
+859;2026-02-13 10:13:00;2026-02-18 22:13:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-02;5.5;Baixa
+860;2026-08-04 13:51:00;2026-08-09 20:51:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-08;5.2917;Baixa
+861;2026-11-12 08:21:00;;Novo;Acessos;Permissões;Equipe Acessos;2026-11;;Normal
+862;2026-09-22 15:27:00;2026-09-24 14:27:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-09;1.9583;Baixa
+863;2026-01-06 11:29:00;2026-01-09 04:29:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-01;2.7083;Alta
+864;2026-06-19 10:11:00;2026-06-22 16:11:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-06;3.25;Normal
+865;2026-11-13 14:35:00;2026-11-16 00:00:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-11;2.3924;Baixa
+866;2026-09-05 12:28:00;2026-09-09 21:28:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-09;4.375;Baixa
+867;2026-05-03 08:38:00;2026-05-03 11:38:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-05;0.125;Alta
+868;2026-07-14 14:41:00;2026-07-20 16:41:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-07;6.0833;Normal
+869;2026-07-10 12:27:00;2026-07-12 17:27:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-07;2.2083;Normal
+870;2026-08-12 10:45:00;2026-08-16 08:45:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-08;3.9167;Alta
+871;2026-08-15 14:15:00;2026-08-17 04:15:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;1.5833;Alta
+872;2026-08-14 13:10:00;2026-08-19 13:10:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-08;5.0;Alta
+873;2026-03-28 16:17:00;2026-04-01 01:17:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-03;3.375;Normal
+874;2026-05-29 16:10:00;2026-06-01 19:10:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-05;3.125;Alta
+875;2026-10-28 17:01:00;;Em atendimento;Manutenção;Elétrica;Equipe Manutenção;2026-10;;Normal
+876;2026-09-06 11:58:00;2026-09-07 06:58:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-09;0.7917;Alta
+877;2026-09-03 13:44:00;2026-09-07 10:44:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-09;3.875;Alta
+878;2026-03-04 17:13:00;2026-03-10 07:13:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-03;5.5833;Normal
+879;2026-04-07 11:30:00;2026-04-13 22:30:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-04;6.4583;Normal
+880;2026-09-13 08:52:00;2026-09-19 07:52:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-09;5.9583;Alta
+881;2026-05-31 09:02:00;2026-06-07 21:02:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;7.5;Normal
+882;2026-04-09 09:07:00;;Em atendimento;Infraestrutura;Computadores;Equipe Suporte;2026-04;;Baixa
+883;2026-02-01 11:48:00;2026-02-04 18:48:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-02;3.2917;Baixa
+884;2026-02-11 12:30:00;2026-02-14 21:30:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-02;3.375;Normal
+885;2026-01-17 12:20:00;2026-01-22 05:20:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;4.7083;Normal
+886;2026-08-28 08:27:00;2026-08-30 09:27:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;2.0417;Normal
+887;2026-07-02 17:01:00;2026-07-07 18:01:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;5.0417;Baixa
+888;2026-03-31 11:48:00;2026-04-03 06:48:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-03;2.7917;Alta
+889;2026-04-22 15:05:00;2026-04-28 13:05:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;5.9167;Baixa
+890;2026-06-30 08:18:00;2026-07-06 11:18:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-06;6.125;Baixa
+891;2026-07-29 11:49:00;2026-08-04 15:49:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-07;6.1667;Baixa
+892;2026-01-16 16:31:00;2026-01-23 14:31:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-01;6.9167;Alta
+893;2026-10-28 10:36:00;2026-11-01 21:36:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;4.4583;Baixa
+894;2026-06-17 12:24:00;2026-06-19 00:24:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-06;1.5;Alta
+895;2026-11-09 13:56:00;2026-11-10 16:56:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-11;1.125;Alta
+896;2026-06-26 13:43:00;;Novo;Infraestrutura;Impressoras;Equipe Suporte;2026-06;;Normal
+897;2026-06-13 11:24:00;2026-06-19 12:24:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-06;6.0417;Baixa
+898;2026-08-24 09:17:00;2026-08-26 19:17:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-08;2.4167;Baixa
+899;2026-10-13 12:31:00;2026-10-16 20:31:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;3.3333;Normal
+900;2026-01-21 12:56:00;2026-01-25 06:56:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-01;3.75;Normal
+901;2026-06-07 16:15:00;2026-06-09 05:15:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-06;1.5417;Alta
+902;2026-03-03 14:37:00;;Pendente;Sistemas;Portal interno;Equipe Sistemas;2026-03;;Normal
+903;2026-02-13 13:26:00;2026-02-13 17:26:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-02;0.1667;Normal
+904;2026-10-30 16:48:00;2026-11-06 19:48:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;7.125;Alta
+905;2026-01-20 13:33:00;2026-01-27 09:33:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-01;6.8333;Alta
+906;2026-08-22 17:57:00;2026-08-23 21:57:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;1.1667;Normal
+907;2026-05-12 12:16:00;2026-05-18 10:16:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;5.9167;Alta
+908;2026-04-25 17:57:00;2026-04-30 03:57:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-04;4.4167;Alta
+909;2026-05-02 13:01:00;2026-05-10 00:01:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-05;7.4583;Baixa
+910;2026-09-08 13:34:00;2026-09-09 01:34:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-09;0.5;Normal
+911;2026-03-03 16:18:00;2026-03-04 10:18:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-03;0.75;Normal
+912;2026-02-09 11:33:00;2026-02-13 15:33:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;4.1667;Alta
+913;2026-08-27 17:12:00;2026-08-31 20:12:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-08;4.125;Alta
+914;2026-09-23 11:29:00;2026-09-26 13:29:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-09;3.0833;Alta
+915;2026-07-08 11:32:00;2026-07-11 06:32:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-07;2.7917;Baixa
+916;2026-08-26 10:00:00;2026-09-01 11:00:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;6.0417;Baixa
+917;2026-09-27 12:10:00;2026-10-03 07:10:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-09;5.7917;Normal
+918;2026-02-11 10:14:00;2026-02-18 04:14:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;6.75;Alta
+919;2026-10-03 17:52:00;2026-10-08 02:52:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-10;4.375;Alta
+920;2026-08-28 16:05:00;2026-08-28 23:05:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-08;0.2917;Normal
+921;2026-05-11 09:43:00;2026-05-15 20:43:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-05;4.4583;Normal
+922;2026-04-04 10:13:00;2026-04-10 12:13:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-04;6.0833;Normal
+923;2026-01-19 10:06:00;2026-01-21 12:06:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;2.0833;Baixa
+924;2026-04-20 12:24:00;2026-04-22 01:24:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-04;1.5417;Alta
+925;2026-05-07 13:10:00;2026-05-09 22:10:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-05;2.375;Baixa
+926;2026-10-24 17:44:00;;Em atendimento;Sistemas;Portal interno;Equipe Sistemas;2026-10;;Normal
+927;2026-06-08 11:00:00;2026-06-12 14:00:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-06;4.125;Normal
+928;2026-10-10 09:00:00;2026-10-10 16:00:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-10;0.2917;Normal
+929;2026-09-10 16:37:00;2026-09-15 01:37:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-09;4.375;Normal
+930;2026-09-08 11:06:00;2026-09-15 03:06:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-09;6.6667;Alta
+931;2026-04-28 13:26:00;2026-05-02 20:26:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-04;4.2917;Normal
+932;2026-02-09 08:01:00;2026-02-11 21:01:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-02;2.5417;Alta
+933;2026-03-26 16:39:00;2026-04-02 10:39:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-03;6.75;Normal
+934;2026-09-06 09:40:00;2026-09-13 11:40:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-09;7.0833;Normal
+935;2026-11-09 17:24:00;2026-11-15 19:24:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-11;6.0833;Baixa
+936;2026-04-15 10:17:00;2026-04-21 00:17:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-04;5.5833;Alta
+937;2026-02-16 12:57:00;2026-02-21 06:57:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-02;4.75;Alta
+938;2026-03-11 08:17:00;2026-03-11 14:17:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-03;0.25;Alta
+939;2026-07-27 17:03:00;;Pendente;Infraestrutura;Computadores;Equipe Suporte;2026-07;;Normal
+940;2026-06-25 16:56:00;2026-06-27 03:56:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-06;1.4583;Baixa
+941;2026-07-18 17:31:00;2026-07-18 23:31:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-07;0.25;Baixa
+942;2026-04-28 10:17:00;2026-05-04 03:17:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-04;5.7083;Baixa
+943;2026-10-26 16:56:00;2026-11-01 05:56:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;5.5417;Baixa
+944;2026-07-29 08:54:00;2026-08-02 20:54:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;4.5;Baixa
+945;2026-01-14 15:06:00;2026-01-20 22:06:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-01;6.2917;Baixa
+946;2026-10-15 11:04:00;2026-10-22 07:04:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;6.8333;Alta
+947;2026-06-08 15:29:00;2026-06-13 04:29:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-06;4.5417;Alta
+948;2026-07-07 15:40:00;2026-07-10 18:40:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-07;3.125;Baixa
+949;2026-08-18 09:39:00;2026-08-20 09:39:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-08;2.0;Normal
+950;2026-11-14 11:56:00;2026-11-16 00:00:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-11;1.5028;Alta
+951;2026-03-05 15:09:00;;Em atendimento;Sistemas;ERP;Equipe Sistemas;2026-03;;Baixa
+952;2026-10-03 15:15:00;2026-10-10 22:15:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-10;7.2917;Baixa
+953;2026-10-10 15:41:00;2026-10-16 11:41:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;5.8333;Alta
+954;2026-03-20 11:03:00;2026-03-21 21:03:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-03;1.4167;Normal
+955;2026-03-26 13:02:00;2026-03-29 17:02:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-03;3.1667;Alta
+956;2026-10-10 15:08:00;2026-10-14 07:08:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-10;3.6667;Alta
+957;2026-01-01 15:57:00;2026-01-03 12:57:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;1.875;Normal
+958;2026-01-07 16:25:00;2026-01-15 02:25:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-01;7.4167;Normal
+959;2026-01-27 14:30:00;2026-01-30 23:30:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-01;3.375;Normal
+960;2026-01-13 09:39:00;2026-01-17 17:39:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;4.3333;Alta
+961;2026-06-28 14:18:00;2026-07-04 18:18:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-06;6.1667;Normal
+962;2026-07-07 17:55:00;2026-07-07 23:55:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-07;0.25;Alta
+963;2026-01-24 10:33:00;2026-01-30 04:33:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-01;5.75;Normal
+964;2026-01-23 14:33:00;2026-01-28 14:33:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-01;5.0;Baixa
+965;2026-02-09 17:43:00;2026-02-10 03:43:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-02;0.4167;Alta
+966;2026-05-28 10:21:00;2026-06-01 05:21:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;3.7917;Normal
+967;2026-07-22 17:07:00;2026-07-28 17:07:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-07;6.0;Baixa
+968;2026-01-25 14:21:00;2026-01-27 05:21:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-01;1.625;Normal
+969;2026-01-29 16:32:00;2026-01-30 11:32:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-01;0.7917;Baixa
+970;2026-03-01 08:44:00;2026-03-03 21:44:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-03;2.5417;Alta
+971;2026-06-07 11:48:00;2026-06-08 05:48:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-06;0.75;Alta
+972;2026-04-27 12:40:00;2026-04-27 15:40:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-04;0.125;Normal
+973;2026-01-09 08:31:00;2026-01-16 04:31:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-01;6.8333;Normal
+974;2026-08-18 08:03:00;2026-08-24 08:03:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-08;6.0;Baixa
+975;2026-09-13 14:59:00;;Novo;Acessos;Permissões;Equipe Acessos;2026-09;;Baixa
+976;2026-02-21 09:40:00;2026-02-28 19:40:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-02;7.4167;Normal
+977;2026-04-23 08:28:00;2026-04-30 19:28:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-04;7.4583;Baixa
+978;2026-06-16 17:30:00;2026-06-20 17:30:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-06;4.0;Alta
+979;2026-05-03 09:57:00;2026-05-06 06:57:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;2.875;Baixa
+980;2026-08-22 08:05:00;2026-08-26 14:05:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-08;4.25;Normal
+981;2026-09-03 12:22:00;2026-09-04 05:22:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-09;0.7083;Alta
+982;2026-03-11 17:00:00;2026-03-14 17:00:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-03;3.0;Alta
+983;2026-05-31 13:36:00;2026-06-03 10:36:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-05;2.875;Normal
+984;2026-10-11 10:35:00;2026-10-15 05:35:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-10;3.7917;Baixa
+985;2026-10-08 12:11:00;2026-10-09 01:11:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-10;0.5417;Alta
+986;2026-04-27 11:37:00;2026-04-30 02:37:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-04;2.625;Normal
+987;2026-10-31 08:41:00;2026-11-03 14:41:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-10;3.25;Normal
+988;2026-11-02 11:24:00;2026-11-03 22:24:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-11;1.4583;Alta
+989;2026-02-27 12:07:00;2026-03-02 01:07:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-02;2.5417;Alta
+990;2026-05-10 08:07:00;2026-05-16 19:07:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-05;6.4583;Alta
+991;2026-01-09 08:51:00;2026-01-16 11:51:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-01;7.125;Alta
+992;2026-09-03 15:37:00;2026-09-04 03:37:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-09;0.5;Alta
+993;2026-09-04 11:17:00;2026-09-06 06:17:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-09;1.7917;Baixa
+994;2026-09-15 11:17:00;2026-09-19 00:17:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-09;3.5417;Alta
+995;2026-01-30 14:28:00;2026-02-05 11:28:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-01;5.875;Baixa
+996;2026-01-13 15:15:00;2026-01-18 20:15:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;5.2083;Baixa
+997;2026-07-02 13:52:00;2026-07-05 21:52:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-07;3.3333;Baixa
+998;2026-10-01 08:46:00;;Pendente;Acessos;Permissões;Equipe Acessos;2026-10;;Baixa
+999;2026-10-31 08:02:00;2026-11-02 16:02:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-10;2.3333;Normal
+1000;2026-07-25 17:52:00;2026-07-28 20:52:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-07;3.125;Normal
+1001;2026-01-03 08:03:00;2026-01-09 23:03:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-01;6.625;Alta
+1002;2026-01-22 15:54:00;;Novo;Infraestrutura;Computadores;Equipe Suporte;2026-01;;Baixa
+1003;2026-04-30 11:55:00;2026-05-02 00:55:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-04;1.5417;Normal
+1004;2026-02-10 12:53:00;2026-02-10 15:53:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;0.125;Normal
+1005;2026-07-30 12:39:00;2026-08-02 14:39:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;3.0833;Normal
+1006;2026-11-12 09:25:00;;Pendente;Infraestrutura;Computadores;Equipe Suporte;2026-11;;Normal
+1007;2026-02-27 11:36:00;2026-03-03 01:36:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-02;3.5833;Alta
+1008;2026-01-29 15:47:00;2026-01-31 12:47:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;1.875;Normal
+1009;2026-04-04 14:33:00;2026-04-10 09:33:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-04;5.7917;Alta
+1010;2026-04-09 12:36:00;2026-04-12 20:36:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-04;3.3333;Baixa
+1011;2026-08-17 11:37:00;;Pendente;Sistemas;Portal interno;Equipe Sistemas;2026-08;;Baixa
+1012;2026-09-13 08:14:00;2026-09-17 17:14:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-09;4.375;Alta
+1013;2026-06-12 09:28:00;2026-06-18 19:28:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-06;6.4167;Normal
+1014;2026-08-16 17:59:00;2026-08-17 20:59:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-08;1.125;Normal
+1015;2026-01-20 12:17:00;2026-01-22 03:17:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;1.625;Baixa
+1016;2026-08-21 09:36:00;2026-08-23 02:36:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-08;1.7083;Normal
+1017;2026-08-31 10:13:00;2026-09-06 15:13:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-08;6.2083;Normal
+1018;2026-11-08 13:57:00;;Em atendimento;Acessos;Criar acesso;Equipe Acessos;2026-11;;Baixa
+1019;2026-01-05 16:19:00;2026-01-11 15:19:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-01;5.9583;Alta
+1020;2026-06-10 14:34:00;2026-06-11 10:34:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-06;0.8333;Normal
+1021;2026-02-01 16:33:00;2026-02-04 05:33:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-02;2.5417;Normal
+1022;2026-10-03 08:03:00;2026-10-10 05:03:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-10;6.875;Alta
+1023;2026-03-16 16:25:00;2026-03-22 11:25:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-03;5.7917;Alta
+1024;2026-10-04 17:57:00;2026-10-10 21:57:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-10;6.1667;Alta
+1025;2026-05-01 09:03:00;2026-05-01 16:03:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-05;0.2917;Alta
+1026;2026-02-20 15:55:00;2026-02-22 05:55:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;1.5833;Normal
+1027;2026-08-30 11:33:00;2026-09-03 21:33:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-08;4.4167;Baixa
+1028;2026-07-17 15:54:00;2026-07-18 23:54:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-07;1.3333;Normal
+1029;2026-02-11 09:03:00;2026-02-17 06:03:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;5.875;Baixa
+1030;2026-04-13 12:55:00;2026-04-15 17:55:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-04;2.2083;Alta
+1031;2026-02-08 09:44:00;2026-02-13 05:44:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-02;4.8333;Normal
+1032;2026-09-04 09:24:00;2026-09-09 05:24:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-09;4.8333;Alta
+1033;2026-10-02 12:37:00;2026-10-08 16:37:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-10;6.1667;Alta
+1034;2026-02-05 11:51:00;2026-02-06 08:51:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;0.875;Baixa
+1035;2026-03-27 17:49:00;2026-03-28 06:49:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;0.5417;Alta
+1036;2026-07-12 13:58:00;2026-07-18 21:58:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-07;6.3333;Alta
+1037;2026-08-20 11:40:00;;Em atendimento;Infraestrutura;Impressoras;Equipe Suporte;2026-08;;Alta
+1038;2026-01-31 08:45:00;;Pendente;Infraestrutura;Impressoras;Equipe Suporte;2026-01;;Baixa
+1039;2026-02-24 11:57:00;2026-02-28 00:57:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;3.5417;Baixa
+1040;2026-11-05 08:06:00;2026-11-12 17:06:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-11;7.375;Alta
+1041;2026-06-01 11:48:00;2026-06-05 22:48:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-06;4.4583;Normal
+1042;2026-06-18 16:15:00;2026-06-25 01:15:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-06;6.375;Baixa
+1043;2026-03-20 14:58:00;2026-03-27 12:58:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-03;6.9167;Baixa
+1044;2026-05-21 11:27:00;2026-05-22 00:27:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-05;0.5417;Alta
+1045;2026-05-01 10:42:00;2026-05-08 22:42:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-05;7.5;Normal
+1046;2026-05-04 11:30:00;2026-05-08 23:30:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-05;4.5;Normal
+1047;2026-06-03 11:42:00;2026-06-06 22:42:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-06;3.4583;Normal
+1048;2026-03-03 14:17:00;2026-03-10 10:17:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-03;6.8333;Normal
+1049;2026-05-15 09:13:00;2026-05-15 23:13:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-05;0.5833;Baixa
+1050;2026-07-08 15:03:00;2026-07-16 02:03:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-07;7.4583;Alta
+1051;2026-04-14 16:07:00;2026-04-21 17:07:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-04;7.0417;Alta
+1052;2026-04-29 13:10:00;2026-05-05 04:10:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;5.625;Normal
+1053;2026-06-04 13:58:00;2026-06-11 04:58:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-06;6.625;Alta
+1054;2026-03-14 10:38:00;2026-03-21 10:38:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-03;7.0;Normal
+1055;2026-03-02 09:31:00;2026-03-04 14:31:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-03;2.2083;Alta
+1056;2026-04-11 15:18:00;2026-04-14 18:18:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-04;3.125;Alta
+1057;2026-09-01 15:29:00;2026-09-07 07:29:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-09;5.6667;Baixa
+1058;2026-05-29 10:31:00;;Pendente;Infraestrutura;E-mail;Equipe Suporte;2026-05;;Baixa
+1059;2026-02-13 09:16:00;2026-02-16 04:16:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;2.7917;Normal
+1060;2026-11-06 12:40:00;2026-11-12 01:40:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-11;5.5417;Alta
+1061;2026-08-01 10:10:00;2026-08-07 15:10:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-08;6.2083;Normal
+1062;2026-03-12 12:09:00;;Pendente;Sistemas;Relatórios;Equipe Sistemas;2026-03;;Alta
+1063;2026-11-09 12:09:00;;Em atendimento;Manutenção;Elétrica;Equipe Manutenção;2026-11;;Normal
+1064;2026-01-10 16:33:00;2026-01-17 16:33:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-01;7.0;Normal
+1065;2026-04-30 14:01:00;2026-05-04 00:01:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;3.4167;Alta
+1066;2026-07-19 17:57:00;2026-07-20 20:57:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;1.125;Normal
+1067;2026-01-07 14:23:00;2026-01-09 15:23:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;2.0417;Alta
+1068;2026-10-15 11:30:00;2026-10-17 04:30:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-10;1.7083;Alta
+1069;2026-01-10 16:41:00;;Pendente;Sistemas;Relatórios;Equipe Sistemas;2026-01;;Baixa
+1070;2026-08-08 14:25:00;2026-08-13 06:25:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-08;4.6667;Alta
+1071;2026-04-03 13:56:00;2026-04-11 01:56:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;7.5;Alta
+1072;2026-02-16 13:23:00;2026-02-23 01:23:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-02;6.5;Baixa
+1073;2026-04-04 17:31:00;2026-04-05 18:31:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-04;1.0417;Baixa
+1074;2026-04-13 09:27:00;2026-04-18 23:27:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-04;5.5833;Baixa
+1075;2026-09-22 14:57:00;;Em atendimento;Infraestrutura;Computadores;Equipe Suporte;2026-09;;Normal
+1076;2026-07-15 14:56:00;2026-07-19 01:56:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-07;3.4583;Baixa
+1077;2026-07-10 10:28:00;2026-07-10 17:28:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-07;0.2917;Normal
+1078;2026-08-28 09:02:00;2026-09-01 20:02:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-08;4.4583;Baixa
+1079;2026-05-20 08:36:00;2026-05-23 04:36:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-05;2.8333;Alta
+1080;2026-01-25 12:32:00;2026-01-26 22:32:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;1.4167;Alta
+1081;2026-07-23 09:47:00;2026-07-29 01:47:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-07;5.6667;Alta
+1082;2026-01-27 17:01:00;2026-01-29 21:01:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-01;2.1667;Baixa
+1083;2026-01-27 09:07:00;2026-01-29 06:07:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-01;1.875;Baixa
+1084;2026-08-21 15:07:00;2026-08-26 06:07:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-08;4.625;Normal
+1085;2026-03-02 17:05:00;2026-03-10 05:05:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-03;7.5;Normal
+1086;2026-08-13 17:37:00;2026-08-20 17:37:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-08;7.0;Baixa
+1087;2026-09-18 08:38:00;2026-09-18 18:38:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-09;0.4167;Baixa
+1088;2026-08-02 11:58:00;2026-08-09 08:58:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-08;6.875;Baixa
+1089;2026-01-01 14:22:00;2026-01-07 02:22:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-01;5.5;Baixa
+1090;2026-10-29 15:02:00;2026-11-01 22:02:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-10;3.2917;Baixa
+1091;2026-03-01 13:44:00;;Novo;Acessos;Criar acesso;Equipe Acessos;2026-03;;Normal
+1092;2026-09-28 11:56:00;2026-09-29 23:56:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-09;1.5;Normal
+1093;2026-03-26 17:39:00;2026-03-28 01:39:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-03;1.3333;Alta
+1094;2026-02-23 13:33:00;2026-02-25 18:33:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-02;2.2083;Normal
+1095;2026-05-08 11:19:00;2026-05-09 09:19:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-05;0.9167;Baixa
+1096;2026-05-28 14:22:00;;Em atendimento;Infraestrutura;Computadores;Equipe Suporte;2026-05;;Baixa
+1097;2026-08-17 10:20:00;2026-08-24 07:20:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-08;6.875;Alta
+1098;2026-05-08 16:50:00;2026-05-09 07:50:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-05;0.625;Alta
+1099;2026-09-07 13:28:00;2026-09-10 01:28:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-09;2.5;Normal
+1100;2026-09-18 16:51:00;2026-09-21 05:51:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-09;2.5417;Alta
+1101;2026-10-13 17:48:00;2026-10-18 15:48:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-10;4.9167;Alta
+1102;2026-11-13 14:04:00;2026-11-16 00:00:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-11;2.4139;Normal
+1103;2026-09-12 17:35:00;2026-09-14 23:35:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-09;2.25;Normal
+1104;2026-09-12 12:43:00;;Novo;Infraestrutura;Rede;Equipe Suporte;2026-09;;Alta
+1105;2026-07-05 17:11:00;2026-07-12 19:11:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-07;7.0833;Baixa
+1106;2026-06-06 10:45:00;2026-06-13 00:45:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-06;6.5833;Baixa
+1107;2026-10-28 09:09:00;2026-11-02 19:09:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-10;5.4167;Alta
+1108;2026-08-16 10:30:00;2026-08-17 20:30:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-08;1.4167;Baixa
+1109;2026-08-01 13:21:00;;Novo;Sistemas;Portal interno;Equipe Sistemas;2026-08;;Alta
+1110;2026-07-18 11:14:00;2026-07-20 10:14:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-07;1.9583;Baixa
+1111;2026-07-16 16:09:00;2026-07-21 11:09:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-07;4.7917;Baixa
+1112;2026-06-28 10:38:00;2026-06-29 03:38:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-06;0.7083;Alta
+1113;2026-06-22 15:37:00;2026-06-25 20:37:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-06;3.2083;Alta
+1114;2026-02-22 09:00:00;2026-02-23 03:00:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-02;0.75;Alta
+1115;2026-08-17 14:58:00;2026-08-18 22:58:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;1.3333;Normal
+1116;2026-01-28 09:42:00;2026-01-30 13:42:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-01;2.1667;Normal
+1117;2026-11-13 09:50:00;2026-11-16 00:00:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-11;2.5903;Alta
+1118;2026-04-08 11:27:00;2026-04-11 10:27:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-04;2.9583;Baixa
+1119;2026-05-05 12:01:00;2026-05-07 09:01:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-05;1.875;Alta
+1120;2026-06-24 13:59:00;2026-06-30 04:59:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-06;5.625;Normal
+1121;2026-01-12 10:52:00;2026-01-16 03:52:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;3.7083;Alta
+1122;2026-03-08 10:37:00;2026-03-11 01:37:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-03;2.625;Baixa
+1123;2026-10-28 09:54:00;2026-10-29 12:54:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-10;1.125;Normal
+1124;2026-05-12 14:02:00;2026-05-15 07:02:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-05;2.7083;Alta
+1125;2026-10-31 14:13:00;2026-11-05 16:13:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;5.0833;Alta
+1126;2026-10-16 09:08:00;2026-10-20 11:08:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-10;4.0833;Baixa
+1127;2026-08-22 10:32:00;2026-08-28 14:32:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-08;6.1667;Normal
+1128;2026-11-14 08:29:00;2026-11-16 00:00:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-11;1.6465;Baixa
+1129;2026-07-10 13:27:00;2026-07-14 11:27:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-07;3.9167;Baixa
+1130;2026-02-13 15:55:00;2026-02-16 04:55:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-02;2.5417;Normal
+1131;2026-08-16 12:01:00;2026-08-21 22:01:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;5.4167;Baixa
+1132;2026-04-26 09:55:00;2026-05-02 04:55:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-04;5.7917;Baixa
+1133;2026-03-15 10:32:00;2026-03-21 11:32:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-03;6.0417;Normal
+1134;2026-02-02 09:19:00;2026-02-02 18:19:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-02;0.375;Alta
+1135;2026-08-07 12:15:00;2026-08-08 14:15:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-08;1.0833;Baixa
+1136;2026-09-06 17:18:00;2026-09-10 06:18:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-09;3.5417;Normal
+1137;2026-08-04 11:41:00;2026-08-06 13:41:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-08;2.0833;Normal
+1138;2026-01-16 16:32:00;2026-01-17 08:32:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-01;0.6667;Baixa
+1139;2026-11-15 14:59:00;2026-11-16 00:00:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-11;0.3757;Normal
+1140;2026-06-28 11:32:00;2026-07-05 11:32:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-06;7.0;Normal
+1141;2026-10-18 11:00:00;;Novo;Sistemas;Integração;Equipe Sistemas;2026-10;;Baixa
+1142;2026-07-25 15:22:00;2026-07-28 18:22:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-07;3.125;Normal
+1143;2026-01-06 11:43:00;2026-01-13 20:43:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-01;7.375;Normal
+1144;2026-09-16 17:27:00;2026-09-22 11:27:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-09;5.75;Alta
+1145;2026-10-19 15:17:00;;Novo;Infraestrutura;Computadores;Equipe Suporte;2026-10;;Alta
+1146;2026-09-25 09:49:00;2026-09-27 23:49:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-09;2.5833;Normal
+1147;2026-06-02 16:09:00;2026-06-07 04:09:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-06;4.5;Baixa
+1148;2026-02-14 16:45:00;2026-02-21 16:45:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-02;7.0;Alta
+1149;2026-03-21 09:18:00;2026-03-28 21:18:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-03;7.5;Normal
+1150;2026-09-17 15:23:00;2026-09-19 05:23:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-09;1.5833;Alta
+1151;2026-10-19 08:29:00;;Novo;Sistemas;Integração;Equipe Sistemas;2026-10;;Normal
+1152;2026-01-27 13:54:00;;Pendente;Infraestrutura;Computadores;Equipe Suporte;2026-01;;Alta
+1153;2026-07-18 13:53:00;2026-07-25 15:53:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-07;7.0833;Alta
+1154;2026-10-16 12:08:00;;Em atendimento;Sistemas;ERP;Equipe Sistemas;2026-10;;Baixa
+1155;2026-11-01 14:24:00;2026-11-07 06:24:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-11;5.6667;Alta
+1156;2026-11-15 15:17:00;2026-11-16 00:00:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-11;0.3632;Alta
+1157;2026-01-31 12:35:00;2026-02-07 03:35:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-01;6.625;Normal
+1158;2026-07-02 17:06:00;2026-07-08 08:06:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-07;5.625;Normal
+1159;2026-05-19 10:56:00;;Em atendimento;Manutenção;Elétrica;Equipe Manutenção;2026-05;;Alta
+1160;2026-02-15 17:37:00;2026-02-22 18:37:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-02;7.0417;Normal
+1161;2026-02-07 17:49:00;2026-02-11 16:49:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-02;3.9583;Alta
+1162;2026-08-07 13:28:00;2026-08-10 12:28:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-08;2.9583;Baixa
+1163;2026-03-27 13:43:00;2026-03-31 21:43:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-03;4.3333;Baixa
+1164;2026-06-13 17:51:00;2026-06-21 04:51:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-06;7.4583;Baixa
+1165;2026-07-08 11:10:00;2026-07-10 07:10:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-07;1.8333;Baixa
+1166;2026-08-19 17:48:00;2026-08-25 17:48:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-08;6.0;Baixa
+1167;2026-02-07 16:17:00;2026-02-13 21:17:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;6.2083;Baixa
+1168;2026-09-25 16:53:00;2026-09-30 06:53:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-09;4.5833;Baixa
+1169;2026-03-12 09:59:00;2026-03-14 08:59:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-03;1.9583;Normal
+1170;2026-08-11 16:31:00;2026-08-18 09:31:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-08;6.7083;Normal
+1171;2026-02-09 10:40:00;2026-02-12 14:40:00;Fechado;Manutenção;Elétrica;Equipe Manutenção;2026-02;3.1667;Alta
+1172;2026-02-13 13:16:00;2026-02-15 20:16:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-02;2.2917;Normal
+1173;2026-01-13 08:29:00;2026-01-18 23:29:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;5.625;Normal
+1174;2026-03-09 08:16:00;2026-03-10 02:16:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-03;0.75;Alta
+1175;2026-08-03 12:39:00;2026-08-05 04:39:00;Fechado;Infraestrutura;Impressoras;Equipe Suporte;2026-08;1.6667;Alta
+1176;2026-11-02 09:47:00;2026-11-06 03:47:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-11;3.75;Baixa
+1177;2026-10-15 11:36:00;2026-10-18 18:36:00;Fechado;Infraestrutura;Computadores;Equipe Suporte;2026-10;3.2917;Baixa
+1178;2026-09-30 14:52:00;2026-10-06 12:52:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-09;5.9167;Baixa
+1179;2026-07-03 14:07:00;2026-07-05 06:07:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-07;1.6667;Normal
+1180;2026-01-22 12:27:00;2026-01-24 23:27:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-01;2.4583;Alta
+1181;2026-09-11 11:25:00;2026-09-14 20:25:00;Fechado;Infraestrutura;Rede;Equipe Suporte;2026-09;3.375;Baixa
+1182;2026-05-14 11:29:00;2026-05-20 19:29:00;Fechado;Manutenção;Climatização;Equipe Manutenção;2026-05;6.3333;Alta
+1183;2026-03-30 12:54:00;2026-04-06 22:54:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-03;7.4167;Baixa
+1184;2026-04-24 08:59:00;2026-04-29 14:59:00;Fechado;Infraestrutura;E-mail;Equipe Suporte;2026-04;5.25;Normal
+1185;2026-08-10 14:58:00;2026-08-13 14:58:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-08;3.0;Alta
+1186;2026-05-02 08:58:00;2026-05-05 17:58:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-05;3.375;Alta
+1187;2026-11-15 08:15:00;;Em atendimento;Sistemas;Portal interno;Equipe Sistemas;2026-11;;Baixa
+1188;2026-08-04 16:44:00;2026-08-12 04:44:00;Fechado;Acessos;Permissões;Equipe Acessos;2026-08;7.5;Normal
+1189;2026-02-24 08:10:00;2026-03-03 13:10:00;Fechado;Sistemas;ERP;Equipe Sistemas;2026-02;7.2083;Alta
+1190;2026-06-29 17:13:00;2026-07-04 13:13:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-06;4.8333;Baixa
+1191;2026-04-12 10:25:00;2026-04-13 17:25:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-04;1.2917;Normal
+1192;2026-04-11 11:22:00;2026-04-13 10:22:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-04;1.9583;Baixa
+1193;2026-01-16 14:18:00;2026-01-17 06:18:00;Fechado;Manutenção;Mobiliário;Equipe Manutenção;2026-01;0.6667;Baixa
+1194;2026-10-26 15:47:00;;Em atendimento;Infraestrutura;Computadores;Equipe Suporte;2026-10;;Baixa
+1195;2026-03-18 12:22:00;2026-03-20 19:22:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-03;2.2917;Baixa
+1196;2026-05-24 11:03:00;2026-05-31 21:03:00;Fechado;Sistemas;Relatórios;Equipe Sistemas;2026-05;7.4167;Normal
+1197;2026-07-18 09:49:00;2026-07-19 08:49:00;Fechado;Acessos;Redefinir senha;Equipe Acessos;2026-07;0.9583;Baixa
+1198;2026-05-23 13:30:00;2026-05-30 17:30:00;Fechado;Acessos;Criar acesso;Equipe Acessos;2026-05;7.1667;Normal
+1199;2026-07-22 17:41:00;2026-07-29 06:41:00;Fechado;Sistemas;Integração;Equipe Sistemas;2026-07;6.5417;Alta
+1200;2026-03-04 14:21:00;2026-03-08 21:21:00;Fechado;Sistemas;Portal interno;Equipe Sistemas;2026-03;4.2917;Baixa

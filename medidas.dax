@@ -1,0 +1,7 @@
+Total Chamados = COUNTROWS(Chamados_GLPI)
+
+Chamados Fechados = CALCULATE([Total Chamados], Chamados_GLPI[Status] = "Fechado")
+
+Chamados em Atendimento = CALCULATE([Total Chamados], Chamados_GLPI[Status] = "Em atendimento")
+
+Tempo Médio Atendimento (dias) = CALCULATE(AVERAGE(Chamados_GLPI[Tempo atendimento dias]), Chamados_GLPI[Status] = "Fechado")

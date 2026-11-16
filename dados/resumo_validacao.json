@@ -1,0 +1,13 @@
+{
+  "total": 1200,
+  "status": {
+    "Fechado": 1059,
+    "Novo": 40,
+    "Em atendimento": 51,
+    "Pendente": 50
+  },
+  "tempo_medio_fechados_dias": 3.827,
+  "seed": 20261116,
+  "data_referencia": "2026-11-16",
+  "dados": "100% sintéticos"
+}
